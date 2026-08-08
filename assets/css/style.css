@@ -657,6 +657,8 @@ h4 { font-size: 1.1rem; }
   .section { padding: 3.25rem 0; }
   .grid-2, .grid-3, .grid-4, .grid-5, .grid-6 { grid-template-columns: 1fr; }
   .hero { min-height: 70vh; }
+  .hero-bg video { display: none; }
+  .hero-bg .hero-fallback { display: block; }
   .hero-actions .btn { width: 100%; justify-content: center; }
   .cta-inner { text-align: center; justify-content: center; }
   .cta-actions { justify-content: center; }
