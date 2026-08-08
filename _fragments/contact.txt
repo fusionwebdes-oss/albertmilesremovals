@@ -1,0 +1,99 @@
+@path contact.html
+@title Contact Albert Miles Removals | Free Quote, Call or Email
+@desc Contact Albert Miles Removals for a free quote. Call 0121 679 2511, email us or use the contact form. Professional house and office removals across the West Midlands.
+@canonical https://www.albertmilesremovals.co.uk/contact.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contact Albert Miles Removals",
+  "url": "https://www.albertmilesremovals.co.uk/contact.html",
+  "mainEntity": { "@type": "LocalBusiness", "name": "Albert Miles Removals", "telephone": "+441216792511", "email": "info@albertmilesremovals.co.uk" }
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="Images/Gallery-image-for-Albert-Miles-5.webp" alt="Albert Miles moving van outside a West Midlands home" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Contact Albert Miles Removals</h1>
+    <p>Questions, quotes or a quick availability check — we're here to help. A real person answers, usually within the hour.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="index.html">Home</a></li>
+        <li aria-current="page">Contact</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ CONTACT ============ -->
+<section class="section">
+  <div class="container split">
+    <div>
+      <span class="kicker">Get in Touch</span>
+      <h2>We'd Love to Hear From You</h2>
+      <p>Whether you're planning a big house move or just need a van for an afternoon, the quickest way to get an answer is to call. Prefer to write? Use the form and we'll reply within one working day.</p>
+
+      <div class="sidebar-card" style="background:var(--white);">
+        <div class="contact-line"><span class="ico" aria-hidden="true">☎</span><div><strong>Call or WhatsApp</strong><br><a class="tel" href="tel:+441216792511">0121 679 2511</a></div></div>
+        <div class="contact-line"><span class="ico" aria-hidden="true">✉</span><div><strong>Email</strong><br><a href="mailto:info@albertmilesremovals.co.uk">info@albertmilesremovals.co.uk</a></div></div>
+        <div class="contact-line"><span class="ico" aria-hidden="true">◷</span><div><strong>Opening Hours</strong><br>Mon–Fri: 8am–6pm<br>Saturday: 8am–4pm<br>Sunday: Closed</div></div>
+        <div class="contact-line"><span class="ico" aria-hidden="true">📍</span><div><strong>Service Area</strong><br>Birmingham & the whole West Midlands<br>UK-wide for long-distance moves</div></div>
+      </div>
+
+      <h3 class="mt-2">Frequently Asked First</h3>
+      <details class="faq-item">
+        <summary>Do you give free quotes?</summary>
+        <div class="faq-body"><p>Yes — every quote is free and fixed. No call-out fees, no obligation.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>How quickly do you respond?</summary>
+        <div class="faq-body"><p>Calls are answered during opening hours. Form and email enquiries get a reply within one working day — usually much faster.</p></div>
+      </details>
+    </div>
+
+    <div class="quote-form">
+      <h2>Send Us a Message</h2>
+      <p class="sub">Fill in your details and we'll get straight back to you.</p>
+      <form action="mailto:info@albertmilesremovals.co.uk" method="post" enctype="text/plain" onsubmit="alert('Thank you — we will reply within one working day. For an instant quote, please call 0121 679 2511.');">
+        <div class="form-grid">
+          <div class="form-group">
+            <label for="c-name">Full name <span class="req">*</span></label>
+            <input type="text" id="c-name" name="name" required autocomplete="name">
+          </div>
+          <div class="form-group">
+            <label for="c-phone">Phone number <span class="req">*</span></label>
+            <input type="tel" id="c-phone" name="phone" required autocomplete="tel">
+          </div>
+          <div class="form-group full">
+            <label for="c-email">Email address</label>
+            <input type="email" id="c-email" name="email" autocomplete="email">
+          </div>
+          <div class="form-group full">
+            <label for="c-msg">Your message <span class="req">*</span></label>
+            <textarea id="c-msg" name="message" required placeholder="Tell us about your move — from, to, and roughly how much there is to move."></textarea>
+          </div>
+        </div>
+        <button type="submit" class="btn btn-red btn-block mt-2">Send Message</button>
+        <p class="form-note">Prefer instant answers? Call us on 0121 679 2511.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Find Us</span>
+      <h2>Based in Birmingham, Serving the Region</h2>
+      <p>We don't run a high-street shop — we come to you. But if you'd like to visit our depot, just call ahead and we'll be ready for you.</p>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d77764.51380561264!2d-1.9697229640962458!3d52.49391919650516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bdbe1f5a6f6b%3A0x9de0b6ad16f24b41!2sBirmingham!5e0!3m2!1sen!2suk!4v1690000000000!5m2!1sen!2suk" title="Albert Miles Removals location map" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  </div>
+</section>

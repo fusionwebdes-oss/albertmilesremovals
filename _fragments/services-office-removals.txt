@@ -1,0 +1,185 @@
+@path services/office-removals.html
+@title Office Removals & Commercial Moves | Albert Miles Removals
+@desc Professional office removals across the West Midlands. Minimal downtime, evenings & weekends available, sensitive equipment handled with care. Free fixed-price quotes.
+@canonical https://www.albertmilesremovals.co.uk/services/office-removals.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Office Removals in the West Midlands",
+  "serviceType": "Office Removal",
+  "provider": { "@type": "LocalBusiness", "name": "Albert Miles Removals", "telephone": "+441216792511" },
+  "areaServed": "West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles team relocating an office" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Office Removals & Commercial Relocation</h1>
+    <p>Business moves with minimal downtime — planned around your trading hours, not the other way around.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li>Services</li>
+        <li aria-current="page">Office Removals</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Business Moves, Handled Properly</h2>
+      <p>Every hour your business is closed during a move is revenue lost. Our office removal service is engineered around one goal: getting you open again as quickly as possible, with everything exactly where it needs to be.</p>
+      <p>We relocate offices, surgeries, clinics, salons, shops and warehouses across the West Midlands — and because we move businesses day in, day out, we understand the things that matter to you: IT and phone systems, sensitive documents, fragile equipment, staff desks and the sheer volume of a working office.</p>
+      <p>Most of our commercial moves happen over a weekend or an evening so you don't lose trading time. We can also arrange IT disconnection and reconnection, furniture relocation between departments and full or partial packing of desks and files.</p>
+
+      <h2>What's Included</h2>
+      <ul class="checklist">
+        <li>Pre-move site survey & fixed quote</li>
+        <li>Evening, night & weekend moves</li>
+        <li>Desk, chair & screen relocation</li>
+        <li>Computer & server handling</li>
+        <li>Document boxes & filing system moves</li>
+        <li>Floor protection & safe lifting</li>
+        <li>Reassembly & reconfiguration of furniture</li>
+        <li>Optional storage during transition</li>
+      </ul>
+
+      <h2>The Process</h2>
+      <div class="steps">
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Free survey & plan</h3><p>We visit your site, map every department and produce a move plan with timings and a fixed price.</p></div></div>
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Label & prepare</h3><p>We coordinate with your staff so every desk and box is clearly labelled for its new location.</p></div></div>
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Move outside hours</h3><p>The crew works evenings or weekends to shift everything with zero impact on trading.</p></div></div>
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Ready to work</h3><p>Furniture rebuilt, screens reconnected, boxes placed at the right desks. Open on Monday as planned.</p></div></div>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Team size</th><th>Typical price</th></tr>
+            <tr><td>Up to 5 desks</td><td>£350–£700</td></tr>
+            <tr><td>5–15 desks</td><td>£650–£1,500</td></tr>
+            <tr><td>15–30 desks</td><td>£1,200–£2,800</td></tr>
+            <tr><td>30+ desks / multiple floors</td><td>From £2,500</td></tr>
+          </table>
+        </div>
+        <p style="font-size:0.82rem;color:var(--text-muted);margin-top:0.6rem;">Every commercial move is surveyed before quoting. Evening and weekend moves are often more cost-effective than you'd think.</p>
+        <a class="btn btn-red btn-block" href="../quote.html">Get Your Free Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Businesses We Move</h3>
+        <ul class="checklist">
+          <li>Offices & start-ups</li>
+          <li>Dental & medical practices</li>
+          <li>Hairdressers & salons</li>
+          <li>Shops & restaurants</li>
+          <li>Warehouses & workshops</li>
+          <li>Schools & nurseries</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Why Businesses Choose Us</h3>
+        <p style="margin-bottom:0.8rem;">Zero reported downtime on our last 50 commercial moves. Fully insured, DBS-checked crews and a single point of contact from first visit to last box.</p>
+        <a class="btn btn-charcoal" href="../contact.html">Talk to Our Team</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Office Move FAQs</span>
+      <h2>Questions About Office Relocations</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>Can you move our office over a weekend?</summary>
+        <div class="faq-body"><p>Yes — most of our commercial moves are completed over a weekend or an evening. Tell us your ideal window and we'll plan the whole move around it.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you handle computers and IT equipment?</summary>
+        <div class="faq-body"><p>Yes. We use anti-static wrapping for screens and servers, and we can coordinate with your IT provider to disconnect and reconnect systems at the new site.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you move confidential documents?</summary>
+        <div class="faq-body"><p>Absolutely. Documents travel in secure, sealed boxes with a numbered inventory, so nothing is misplaced or left behind.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Will our staff have to help with the move?</summary>
+        <div class="faq-body"><p>No — that's the point. Your team labels their desks and we handle the rest. If you'd like packing help for files and personal items, our <a href="packing-services.html">packing service</a> covers it.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>How far ahead should we book an office move?</summary>
+        <div class="faq-body"><p>4–6 weeks is ideal for larger offices, but we've planned complete relocations in under a fortnight when needed. The earlier the survey, the smoother the move.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ REVIEWS ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Customer Reviews</span>
+      <h2>What Businesses Say</h2>
+    </div>
+    <div class="grid grid-2">
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Moved our dental practice to a new building in Walsall over a single weekend. Zero downtime, no damage. Exceptional.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">PN</div><div><strong>Priya N.</strong><span>Dental practice · Walsall</span></div></div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“We relocated 24 desks and a server room from Wolverhampton to Dudley. Everything was labelled, every screen reconnected. Flawless.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">MR</div><div><strong>Mark R.</strong><span>Office relocation · Wolverhampton to Dudley</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ RELATED ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Related Services</span>
+      <h2>Complete Your Commercial Move</h2>
+    </div>
+    <div class="related-nav">
+      <a href="commercial-relocation.html">Commercial Relocation</a>
+      <a href="packing-services.html">Packing Services</a>
+      <a href="storage.html">Storage</a>
+      <a href="furniture-assembly.html">Furniture Assembly</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Plan Your Office Move</h2>
+        <p>Free site survey and a fixed price — with a move plan that protects your trading hours.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

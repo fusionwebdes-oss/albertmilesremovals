@@ -1,0 +1,164 @@
+@path services/man-and-van.html
+@title Man & Van in the West Midlands | Albert Miles Removals
+@desc Cheap man and van hire with professional movers across Birmingham, Wolverhampton, Walsall & Dudley. Two-man crews, fixed prices, no hourly surprises. Book today.
+@canonical https://www.albertmilesremovals.co.uk/services/man-and-van.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Man and Van in the West Midlands",
+  "serviceType": "Man and Van",
+  "provider": { "@type": "LocalBusiness", "name": "Albert Miles Removals", "telephone": "+441216792511" },
+  "areaServed": "West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/albert-miles-removals-20147.webp" alt="Albert Miles man and van crew loading a van" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Man & Van Service in the West Midlands</h1>
+    <p>Small move? Single items? Just need two strong, careful hands and a decent van — at a price that makes sense.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li>Services</li>
+        <li aria-current="page">Man & Van</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Small Moves, Done Properly</h2>
+      <p>Not every move needs a three-man crew and a 40-foot truck. For bedsits, one-bedroom flats, single items or a sofa that won't fit in your hatchback, our man & van service is the sweet spot: two professional movers, a modern, clean van and a fixed price agreed before we start.</p>
+      <p>Unlike some "man with a white van" operators, we're a fully licensed, insured removal company. Our man-and-van crews wear uniforms, bring furniture blankets and trolleys, and treat every job — however small — with the same care as a full house move.</p>
+      <p>We cover the whole West Midlands and further afield for single-item and small moves, and can also help with tip runs, furniture collections and deliveries.</p>
+
+      <h2>Perfect For</h2>
+      <ul class="checklist">
+        <li>Bedsits, studios & 1-bedroom flats</li>
+        <li>Student moves (see our <a href="student-moves.html">student service</a>)</li>
+        <li>Sofas, beds & large single items</li>
+        <li>Delivery & collection runs</li>
+        <li>Tip runs & donations</li>
+        <li>Small office moves</li>
+      </ul>
+
+      <h2>The Process</h2>
+      <div class="steps">
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Describe the job</h3><p>Tell us what you're moving and between which postcodes. We'll agree a fixed price — no meter running.</p></div></div>
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>We turn up ready</h3><p>Two movers arrive with the right van, blankets and equipment for your items.</p></div></div>
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Move & unload</h3><p>Items are loaded safely, driven carefully and unloaded exactly where you want them.</p></div></div>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Job</th><th>Typical price</th></tr>
+            <tr><td>Local single item</td><td>£60–£120</td></tr>
+            <tr><td>1-bed flat (local)</td><td>£180–£320</td></tr>
+            <tr><td>Half-day hire</td><td>£160–£240</td></tr>
+            <tr><td>Full day (2 men + van)</td><td>£320–£480</td></tr>
+          </table>
+        </div>
+        <p style="font-size:0.82rem;color:var(--text-muted);margin-top:0.6rem;">Fixed prices, not per-hour surprises. Get your quote before you book.</p>
+        <a class="btn btn-red btn-block" href="../quote.html">Get Your Free Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>What You Get</h3>
+        <ul class="checklist">
+          <li>2 professional movers</li>
+          <li>Modern, clean, low-emission van</li>
+          <li>Furniture blankets & trolley</li>
+          <li>Fully insured — £10m cover</li>
+          <li>Fixed price in writing</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Why Not Just Hire a Van?</h3>
+        <p>Van hire plus fuel, insurance, your own back and a day off work usually costs more than our fixed price — and we do the heavy lifting.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Man & Van FAQs</span>
+      <h2>Questions About Man & Van</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How is man and van priced?</summary>
+        <div class="faq-body"><p>We price each job as a fixed quote based on the items and the route — not by the hour. You know the price before we start, and it won't change.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>What size van do you use?</summary>
+        <div class="faq-body"><p>Our man-and-van service uses modern 3.5-tonne Luton and long-wheelbase vans with tail lifts — enough for a 1–2 bed flat in one or two loads.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you help carry items upstairs?</summary>
+        <div class="faq-body"><p>Yes — that's the whole point. Our two-man crews carry items to any floor, using lifts or stairs, with equipment for awkward items.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you do long-distance man and van jobs?</summary>
+        <div class="faq-body"><p>Yes. If the job's bigger, check our <a href="long-distance-removals.html">long-distance removals</a>; for single items across the UK we'll quote a fixed door-to-door price.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>How far ahead should I book?</summary>
+        <div class="faq-body"><p>A few days is usually enough. For urgent same-day or next-day moves, call us and we'll see what we can do.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ REVIEWS ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Customer Reviews</span>
+      <h2>What Customers Say</h2>
+    </div>
+    <div class="grid grid-2">
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Booked a man and van for a one-bed flat in Wolverhampton. Two lovely lads, very quick, and cheaper than I expected.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">HT</div><div><strong>Hannah T.</strong><span>Wolverhampton</span></div></div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Needed a 3-seater sofa collected and delivered across Birmingham. Fixed price, arrived on time, done in an hour.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">OD</div><div><strong>Omar D.</strong><span>Birmingham</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Need a Man & Van?</h2>
+        <p>Get a fixed price for your small move — no hidden hourly charges.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

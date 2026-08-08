@@ -1,0 +1,151 @@
+@path locations/index.html
+@title Removals Locations | West Midlands Towns & Cities We Serve
+@desc Removal services across the West Midlands. Dedicated pages for Birmingham, Wolverhampton, Walsall, Dudley, Solihull, Coventry and 20 more towns and cities.
+@canonical https://www.albertmilesremovals.co.uk/locations/index.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Removals Locations in the West Midlands",
+  "url": "https://www.albertmilesremovals.co.uk/locations/index.html",
+  "about": { "@type": "LocalBusiness", "name": "Albert Miles Removals" }
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Albert Miles removals van in the West Midlands" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals Across the West Midlands</h1>
+    <p>We're a local company covering the whole region. Choose your town or city for a dedicated page with local advice, postcode details and move tips.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li aria-current="page">Locations</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ LOCATIONS GRID ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Where We Work</span>
+      <h2>Find Your Town or City</h2>
+      <p>Every location page is written specifically for that area — with local knowledge, common postcodes and move tips. No generic filler.</p>
+    </div>
+    <div class="grid grid-3">
+      <article class="card service-card">
+        <div class="card-ico" aria-hidden="true">🏙</div>
+        <h3>Birmingham</h3>
+        <p>The UK's second city — flats, houses and family homes from Edgbaston to Sutton Coldfield.</p>
+        <a class="btn btn-charcoal" href="removals-birmingham.html">Birmingham Removals</a>
+      </article>
+      <article class="card service-card">
+        <div class="card-ico" aria-hidden="true">🏘</div>
+        <h3>Wolverhampton</h3>
+        <p>Victorian terraces and new-build estates across the Black Country's western gateway.</p>
+        <a class="btn btn-charcoal" href="removals-wolverhampton.html">Wolverhampton Removals</a>
+      </article>
+      <article class="card service-card">
+        <div class="card-ico" aria-hidden="true">🏘</div>
+        <h3>Walsall</h3>
+        <p>From the town centre to Aldridge and Bloxwich — removals for every Walsall postcode.</p>
+        <a class="btn btn-charcoal" href="removals-walsall.html">Walsall Removals</a>
+      </article>
+      <article class="card service-card">
+        <div class="card-ico" aria-hidden="true">🏘</div>
+        <h3>Dudley</h3>
+        <p>Castle-town removals covering Netherton, Kingswinford and the whole DY postcode area.</p>
+        <a class="btn btn-charcoal" href="removals-dudley.html">Dudley Removals</a>
+      </article>
+      <article class="card service-card">
+        <div class="card-ico" aria-hidden="true">🏘</div>
+        <h3>Solihull</h3>
+        <p>Leafy suburbs, period homes and new builds — premium moves across B90–B94.</p>
+        <a class="btn btn-charcoal" href="removals-solihull.html">Solihull Removals</a>
+      </article>
+      <article class="card service-card">
+        <div class="card-ico" aria-hidden="true">🏙</div>
+        <h3>Coventry</h3>
+        <p>The motor city and surrounding Warwickshire villages — reliable moves every time.</p>
+        <a class="btn btn-charcoal" href="removals-coventry.html">Coventry Removals</a>
+      </article>
+    </div>
+
+    <div class="section-head mt-3">
+      <span class="kicker">All Areas</span>
+      <h2>All Locations We Serve</h2>
+    </div>
+    <div class="loc-chips" style="justify-content:center;">
+      <a href="removals-birmingham.html">Birmingham</a>
+      <a href="removals-wolverhampton.html">Wolverhampton</a>
+      <a href="removals-walsall.html">Walsall</a>
+      <a href="removals-dudley.html">Dudley</a>
+      <a href="removals-solihull.html">Solihull</a>
+      <a href="removals-coventry.html">Coventry</a>
+      <a href="removals-west-bromwich.html">West Bromwich</a>
+      <a href="removals-smethwick.html">Smethwick</a>
+      <a href="removals-halesowen.html">Halesowen</a>
+      <a href="removals-stourbridge.html">Stourbridge</a>
+      <a href="removals-sutton-coldfield.html">Sutton Coldfield</a>
+      <a href="removals-cannock.html">Cannock</a>
+      <a href="removals-stafford.html">Stafford</a>
+      <a href="removals-telford.html">Telford</a>
+      <a href="removals-kidderminster.html">Kidderminster</a>
+      <a href="removals-redditch.html">Redditch</a>
+      <a href="removals-nuneaton.html">Nuneaton</a>
+      <a href="removals-rugby.html">Rugby</a>
+      <a href="removals-tamworth.html">Tamworth</a>
+      <a href="removals-lichfield.html">Lichfield</a>
+      <a href="removals-bilston.html">Bilston</a>
+      <a href="removals-tipton.html">Tipton</a>
+      <a href="removals-oldbury.html">Oldbury</a>
+      <a href="removals-shrewsbury.html">Shrewsbury</a>
+      <a href="removals-burton-upon-trent.html">Burton upon Trent</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ WHY LOCAL ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Why Choose a Local Company</span>
+      <h2>Local Knowledge Matters on Moving Day</h2>
+    </div>
+    <div class="grid grid-3">
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">✔</div>
+        <div><h3>Parking & permits</h3><p>We know which streets need permits and where the loaders can park legally.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">✔</div>
+        <div><h3>Access & tight turns</h3><p>Familiarity with awkward roads, narrow entries and steep drives across the region.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">✔</div>
+        <div><h3>No travel time</h3><p>We're on your doorstep — shorter distances mean lower quotes and faster response.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving Somewhere in the West Midlands?</h2>
+        <p>Get a free fixed-price quote for your area today.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,167 @@
+@path locations/removals-west-bromwich.html
+@title Removals in West Bromwich | Local Movers | Albert Miles
+@desc House & office removals in West Bromwich covering B70–B71. Local experts in Great Barr, Charlemont & more. Fixed prices, £10m cover. Free quotes today.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-west-bromwich.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals West Bromwich",
+  "telephone": "+441216792511",
+  "areaServed": "West Bromwich, West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/albert-miles-removals-20147.webp" alt="Albert Miles removals van in West Bromwich" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in West Bromwich</h1>
+    <p>From town-centre apartments to family homes in Great Barr and Charlemont, we move West Bromwich with a crew that knows the borough.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">West Bromwich</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>West Bromwich Moves, Local and Reliable</h2>
+      <p>West Bromwich sits right on our home turf — ten minutes up the A41 from base. That means fast quotes, keen local pricing and crews who know every street in the B70 and B71 postcodes.</p>
+      <p>We cover the town centre and Swan Village (B70), Charlemont, Great Barr and the areas toward the Sandwell Valley (B71), plus Greets Green and the estates around the A41. Family moves, flat moves, downsizing and the occasional Albion-fan relocation on match day (we plan around it) are all in a day's work.</p>
+      <p>West Bromwich homes range from Edwardian terraces to 1960s semis and modern apartments around New Square. Whatever you're leaving or arriving to, we bring the right van size, the right crew and the same fixed-price promise.</p>
+
+      <h2>Areas We Cover</h2>
+      <div class="loc-chips">
+        <a href="#westbrom">Town Centre (B70)</a>
+        <a href="#westbrom">Swan Village (B70)</a>
+        <a href="#westbrom">Charlemont (B71)</a>
+        <a href="#westbrom">Great Barr (B71)</a>
+        <a href="#westbrom">Greets Green (B70)</a>
+        <a href="#westbrom">Sandwell Valley (B71)</a>
+        <a href="#westbrom">Hill Top (B70)</a>
+        <a href="removals-smethwick.html">Smethwick (B66–B67)</a>
+        <a href="removals-oldbury.html">Oldbury (B68–B69)</a>
+      </div>
+
+      <h2>Popular Moves in West Bromwich</h2>
+      <div class="info-box">
+        <h3>Family homes in Great Barr</h3>
+        <p>Great Barr's popular family estates mean regular full-house moves — beds, sofas, wardrobes and all. Packing and furniture reassembly included.</p>
+      </div>
+      <div class="info-box">
+        <h3>Apartments & town-centre flats</h3>
+        <p>Modern apartments around New Square need careful lift and parking planning. Our crews handle them weekly.</p>
+      </div>
+      <div class="info-box">
+        <h3>Office & shop moves</h3>
+        <p>We relocate businesses across the borough — from town-centre offices to units on the industrial estates.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>M5 J1 and the A41 are our main arteries here. We schedule around match days at The Hawthorns and know every resident-parking scheme in the borough.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get a West Bromwich Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>1-bed flat</td><td>£260–£450</td></tr>
+            <tr><td>3-bed house</td><td>£400–£750</td></tr>
+            <tr><td>4-bed house</td><td>£620–£1,100</td></tr>
+            <tr><td>Man & van</td><td>From £75</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Related Services</h3>
+        <ul class="checklist">
+          <li><a href="../services/house-removals.html">House Removals</a></li>
+          <li><a href="../services/man-and-van.html">Man & Van</a></li>
+          <li><a href="../services/storage.html">Storage</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">West Bromwich FAQs</span>
+      <h2>Moving in West Bromwich? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How much does a move cost in West Bromwich?</summary>
+        <div class="faq-body"><p>Local moves typically range from £260 for a flat to around £1,100 for a large family home. Your free fixed quote is confirmed in writing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you cover Great Barr?</summary>
+        <div class="faq-body"><p>Yes — B71 is one of our regular areas for family house moves, along with Charlemont and the town-centre postcodes.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move a flat in a town-centre apartment block?</summary>
+        <div class="faq-body"><p>Yes — we plan loading bays, lifts and parking for apartments around New Square and the rest of B70.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you move offices in West Bromwich?</summary>
+        <div class="faq-body"><p>Yes — from town-centre offices to industrial units. See <a href="../services/office-removals.html">office removals</a>.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you help if I'm downsizing?</summary>
+        <div class="faq-body"><p>Yes — we specialise in downsizing moves and can even help you decide what to keep, store or donate.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>West Bromwich & Neighbouring Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=West%20Bromwich%2C%20UK&t=&z=12&ie=UTF8&iwloc=&output=embed" title="Map of West Bromwich served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-smethwick.html">Smethwick</a>
+      <a href="removals-oldbury.html">Oldbury</a>
+      <a href="removals-walsall.html">Walsall</a>
+      <a href="removals-birmingham.html">Birmingham</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in West Bromwich?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

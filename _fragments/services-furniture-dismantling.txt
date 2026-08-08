@@ -1,0 +1,137 @@
+@path services/furniture-dismantling.html
+@title Furniture Dismantling Service | Safe Disassembly | Albert Miles
+@desc Professional furniture dismantling in the West Midlands. Beds, wardrobes, sofas & flat-pack taken apart safely and reassembled at your new home. Free quotes.
+@canonical https://www.albertmilesremovals.co.uk/services/furniture-dismantling.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Furniture Dismantling in the West Midlands",
+  "serviceType": "Furniture Dismantling",
+  "provider": { "@type": "LocalBusiness", "name": "Albert Miles Removals", "telephone": "+441216792511" },
+  "areaServed": "West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Dismantling furniture for a safe house move" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Furniture Dismantling Service</h1>
+    <p>Big furniture, small doorways? We take it apart safely, move it and rebuild it — so it fits and works first time.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li>Services</li>
+        <li aria-current="page">Furniture Dismantling</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Nothing Too Big, Nothing Too Awkward</h2>
+      <p>Most furniture damage during a move happens at the doorframe — the classic "it came in, it can't go out" moment. Dismantling furniture first is the simple fix, and it's a standard part of every Albert Miles removal.</p>
+      <p>Our team routinely dismantles beds, wardrobes, corner sofas, dining tables, office furniture and heavy flat-pack items before a move, and rebuilds them at the new property. We keep every screw, fixing and tool organised, photograph tricky fittings and label parts so reassembly is straightforward.</p>
+      <p>You don't have to be moving with us to use this service. If you need a piece dismantled and removed — for disposal, storage or a charity collection — we can do that too.</p>
+
+      <h2>What We Dismantle</h2>
+      <ul class="checklist">
+        <li>Beds — divans, ottomans, bunk beds and frames</li>
+        <li>Wardrobes — freestanding and fitted-style</li>
+        <li>Sofas & corner units</li>
+        <li>Dining tables & extending tables</li>
+        <li>Office desks & workstations</li>
+        <li>Exercise equipment & large machines</li>
+        <li>Flat-pack furniture of any brand</li>
+      </ul>
+
+      <h2>The Process</h2>
+      <div class="steps">
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Tell us the items</h3><p>Let us know what needs taking apart and where it's going — a fixed price is confirmed up front.</p></div></div>
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Careful disassembly</h3><p>We dismantle safely, protect delicate parts and organise all fixings and components.</p></div></div>
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Move & reassemble</h3><p>Items are moved, rebuilt and checked at the new location — level, stable and ready to use.</p></div></div>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Item</th><th>Typical price</th></tr>
+            <tr><td>Bed (with reassembly)</td><td>£50–£90</td></tr>
+            <tr><td>Wardrobe</td><td>£60–£110</td></tr>
+            <tr><td>Corner sofa</td><td>£50–£100</td></tr>
+            <tr><td>Full house (part of move)</td><td>Included</td></tr>
+          </table>
+        </div>
+        <p style="font-size:0.82rem;color:var(--text-muted);margin-top:0.6rem;">Dismantling and reassembly are included free with a full house removal.</p>
+        <a class="btn btn-red btn-block" href="../quote.html">Get Your Free Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Also Available</h3>
+        <ul class="checklist">
+          <li>Standalone dismantle & removal</li>
+          <li>Furniture disposal & recycling</li>
+          <li>Donation collection service</li>
+          <li>Furniture repair & reassembly</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Dismantling FAQs</span>
+      <h2>Questions About Furniture Dismantling</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>Is dismantling included in a removal?</summary>
+        <div class="faq-body"><p>Yes — with a full house removal we dismantle and reassemble all beds, wardrobes, sofas and other furniture at no extra cost. Standalone dismantling is charged per item.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you dismantle a corner sofa?</summary>
+        <div class="faq-body"><p>Absolutely. Most corner sofas separate into sections, and we handle both fabric and leather designs daily.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>What if an item can't be dismantled?</summary>
+        <div class="faq-body"><p>We'll be honest and advise the safest option — whether that's a window-access lift, specialised equipment or a different route. We've solved some very tight squeezes.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Will my furniture be rebuilt properly?</summary>
+        <div class="faq-body"><p>Yes. We reassemble every item at your new home, check it's stable and adjust doors and drawers before we leave.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you dispose of old furniture?</summary>
+        <div class="faq-body"><p>We can dismantle and remove furniture you no longer want, recycling or donating it where possible.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Big Furniture, Easy Move</h2>
+        <p>Get a fixed price for dismantling and moving your furniture.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

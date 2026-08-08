@@ -1,0 +1,95 @@
+@path blog/office-move-plan.html
+@title Planning an Office Move: What Goes Wrong & How to Avoid It | Albert Miles Blog
+@desc Office relocations need a plan, not hope. Avoid the classic downtime disasters with this business move blueprint.
+@canonical https://www.albertmilesremovals.co.uk/blog/office-move-plan.html
+@active blog/index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Planning an Office Move: What Goes Wrong & How to Avoid It",
+  "author": { "@type": "Organization", "name": "Albert Miles Removals" },
+  "publisher": { "@type": "Organization", "name": "Albert Miles Removals" }
+}
+@body
+<!-- ============ ARTICLE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Office move being planned" loading="eager">
+  </div>
+  <div class="container">
+    <div class="post-meta"><span>Tips</span><span>5 min read</span></div>
+    <h1>Planning an Office Move: What Goes Wrong & How to Avoid It</h1>
+    <p class="lead">For every pound a business move costs in logistics, poor planning costs ten in lost productivity.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Blog</a></li>
+        <li aria-current="page">Office Move Plan</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ ARTICLE BODY ============ -->
+<section class="section">
+  <div class="container article">
+    <div class="prose">
+      <h2>The Three Most Common Failures</h2>
+      <h3>1. No single owner</h3>
+      <p>If everyone's responsible, no one is. Appoint one person as move manager with authority to make decisions — and give them a deadline.</p>
+      <h3>2. IT last</h3>
+      <p>IT is planned after furniture, then staff can't work for three days. Plan the server room and cabling first — everything else fits around it.</p>
+      <h3>3. Desk-by-desk chaos</h3>
+      <p>Without labelling and a floor plan for the new office, boxes land anywhere and the first morning is a treasure hunt.</p>
+
+      <h2>The Blueprint</h2>
+      <h3>8 weeks out</h3>
+      <ul>
+        <li>Set the move date and budget. Confirm who owns it.</li>
+        <li>Tour the new space and map departments to rooms and desks.</li>
+        <li>Get quotes from at least two <a href="../services/office-removals.html">office removal</a> firms.</li>
+      </ul>
+      <h3>4 weeks out</h3>
+      <ul>
+        <li>Book IT migration and telecoms for the new building.</li>
+        <li>Label every desk, chair and screen with its new location.</li>
+        <li>Identify anything that needs special handling — safes, servers, fragile displays.</li>
+      </ul>
+      <h3>1 week out</h3>
+      <ul>
+        <li>Communicate the plan to staff: what to pack, what to carry, what's not allowed.</li>
+        <li>Test lifts, parking and access at the new address.</li>
+        <li>Confirm insurance and any landlord rules on lift usage.</li>
+      </ul>
+      <h3>Move day</h3>
+      <ul>
+        <li>The crew works to your floor plan — rooms get packed and placed by department.</li>
+        <li>A nominated person is present at both ends with authority and a phone.</li>
+        <li>IT is installed first so desks can connect the moment they land.</li>
+      </ul>
+
+      <h2>The 24-Hour Rule</h2>
+      <p>Aim for the business to be <strong>operational within 24 hours</strong>. That's the difference between a professional relocation and a logistical event. It's achievable if the plan above is followed.</p>
+
+      <h2>Business Moves, Done Properly</h2>
+      <p>Our <a href="../services/commercial-relocation.html">commercial relocation</a> service is built for this — fixed pricing, floor-plan execution and minimal downtime. <a href="../quote.html">Request a quote</a> or call <a href="tel:+441216792511">0121 679 2511</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving Your Business?</h2>
+        <p>Floor-plan moves with fixed pricing and minimal downtime.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

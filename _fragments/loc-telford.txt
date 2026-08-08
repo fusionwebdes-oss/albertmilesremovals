@@ -1,0 +1,168 @@
+@path locations/removals-telford.html
+@title Removals in Telford | Local Movers | Albert Miles
+@desc House & office removals in Telford covering TF1–TF7. Local experts in Wellington, Madeley, Dawley & more. Fixed prices, £10m cover. Free quotes today.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-telford.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals Telford",
+  "telephone": "+441216792511",
+  "areaServed": "Telford, Shropshire"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removals team in Telford" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in Telford</h1>
+    <p>From Wellington's market town streets to Madeley, Dawley and the new developments — Telford moves handled by a crew that knows the town.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">Telford</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Telford Moves, Planned Properly</h2>
+      <p>Telford is a new town built around the M54, which makes it one of the most motorway-friendly places to move in the region. It's also one of the fastest-growing — with new estates, family homes and business parks creating a steady stream of moves.</p>
+      <p>We cover the TF postcodes: Telford centre and the A5 corridor (TF1–TF3), Wellington (TF1), Oakengates and Donnington (TF2), Dawley and Malinslee (TF4), Madeley and Ironbridge (TF7), plus Newport (TF10) and the surrounding Shropshire villages.</p>
+      <p>Because Telford is compact and well-connected, local moves are quick, and longer runs to Birmingham, the wider West Midlands and back are routine for us. The town's mix of 1970s new-town housing and modern estates means every kind of home — and our crews have moved them all.</p>
+
+      <h2>Areas We Cover</h2>
+      <div class="loc-chips">
+        <a href="#telford">Telford Centre (TF3)</a>
+        <a href="#telford">Wellington (TF1)</a>
+        <a href="#telford">Oakengates (TF2)</a>
+        <a href="#telford">Donnington (TF2)</a>
+        <a href="#telford">Dawley (TF4)</a>
+        <a href="#telford">Malinslee (TF4)</a>
+        <a href="#telford">Madeley (TF7)</a>
+        <a href="#telford">Ironbridge (TF8)</a>
+        <a href="#telford">Newport (TF10)</a>
+        <a href="removals-shrewsbury.html">Shrewsbury (SY1)</a>
+      </div>
+
+      <h2>Popular Moves in Telford</h2>
+      <div class="info-box">
+        <h3>Family homes & new builds</h3>
+        <p>New estates across Telford mean regular family moves into and out of the town — full packing, furniture handling and reassembly included.</p>
+      </div>
+      <div class="info-box">
+        <h3>Village & market town moves</h3>
+        <p>Wellington, Newport and the villages around Telford have lovely period homes that need extra care and experience.</p>
+      </div>
+      <div class="info-box">
+        <h3>Business relocation</h3>
+        <p>Telford's business parks see frequent moves — see our <a href="../services/commercial-relocation.html">commercial relocation</a> service.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>The M54 makes Telford one of the easiest towns for us to reach. We know the town's roundabout system and the quiet routes through Dawley.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get a Telford Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>1-bed flat</td><td>£290–£490</td></tr>
+            <tr><td>3-bed house</td><td>£440–£800</td></tr>
+            <tr><td>4-bed house</td><td>£680–£1,220</td></tr>
+            <tr><td>Man & van</td><td>From £85</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Related Services</h3>
+        <ul class="checklist">
+          <li><a href="../services/packing-services.html">Packing Services</a></li>
+          <li><a href="../services/storage.html">Storage</a></li>
+          <li><a href="../services/long-distance-removals.html">Long Distance</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Telford FAQs</span>
+      <h2>Moving in Telford? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How much does a move cost in Telford?</summary>
+        <div class="faq-body"><p>Local moves typically range from £290 for a flat to around £1,220 for a large family home. Your free fixed quote is confirmed in writing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you cover Madeley, Dawley and Wellington?</summary>
+        <div class="faq-body"><p>Yes — all the TF postcodes are regular routes, including Madeley, Dawley, Oakengates and Wellington.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move us between Telford and Birmingham?</summary>
+        <div class="faq-body"><p>Yes — it's a regular route up and down the M54/M6, and we quote it as a fixed door-to-door price.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you handle period homes in Newport or Wellington?</summary>
+        <div class="faq-body"><p>Yes — we move period and listed-style homes across Shropshire with extra care for original features.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you store belongings?</summary>
+        <div class="faq-body"><p>Yes — see <a href="../services/storage.html">storage</a> for secure, flexible terms with collection and delivery.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>Telford & Neighbouring Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=Telford%2C%20UK&t=&z=12&ie=UTF8&iwloc=&output=embed" title="Map of Telford served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-shrewsbury.html">Shrewsbury</a>
+      <a href="removals-stafford.html">Stafford</a>
+      <a href="removals-wolverhampton.html">Wolverhampton</a>
+      <a href="removals-kidderminster.html">Kidderminster</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in Telford?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

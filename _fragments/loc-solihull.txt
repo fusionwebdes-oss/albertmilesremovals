@@ -1,0 +1,192 @@
+@path locations/removals-solihull.html
+@title Removals in Solihull | Local Movers | Albert Miles
+@desc House & office removals in Solihull covering B90–B94. Local experts in Shirley, Knowle, Dorridge & more. Fixed prices, £10m cover. Free quotes today.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-solihull.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals Solihull",
+  "telephone": "+441216792511",
+  "areaServed": "Solihull, West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Albert Miles removals van outside a Solihull home" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in Solihull</h1>
+    <p>Premium house moves in one of the West Midlands' most sought-after boroughs — from Shirley to Knowle, Dorridge and the villages beyond.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">Solihull</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Solihull Moves, Handled With Extra Care</h2>
+      <p>Solihull is home to some of the region's most desirable postcodes — B90 through B94 — and moves here tend to be full-house affairs with valuable contents: antiques, artwork, grand pianos and bespoke furniture. We treat them accordingly.</p>
+      <p>We cover the whole borough: Solihull town and Olton (B91), Shirley (B90), Knowle, Dorridge and Balsall Common (B93), Hampton-in-Arden and Meriden (B92) and the villages like Dickens Heath and Chadwick End. For those moving into the area around the NEC and Birmingham Airport, our M42 junction knowledge keeps everything on schedule.</p>
+      <p>Moving to Solihull often means moving to a bigger home — which means dismantling, reassembly, full packing and sometimes a storage bridge between chains. It's all part of our standard service, delivered with the extra care these moves deserve.</p>
+
+      <h2>Areas We Cover</h2>
+      <div class="loc-chips">
+        <a href="#solihull">Solihull Town (B91)</a>
+        <a href="#solihull">Shirley (B90)</a>
+        <a href="#solihull">Olton (B92)</a>
+        <a href="#solihull">Knowle (B93)</a>
+        <a href="#solihull">Dorridge (B93)</a>
+        <a href="#solihull">Hampton-in-Arden (B92)</a>
+        <a href="#solihull">Meriden (CV7)</a>
+        <a href="#solihull">Dickens Heath (B90)</a>
+        <a href="#solihull">Balsall Common (CV7)</a>
+        <a href="#solihull">Chadwick End (B93)</a>
+      </div>
+
+      <h2>Popular Moves in Solihull</h2>
+      <div class="info-box">
+        <h3>Family houses & new builds</h3>
+        <p>From Edwardian villas in Solihull town to new-builds around Dickens Heath and Knowle, family moves are our speciality — full packing and furniture handling included.</p>
+      </div>
+      <div class="info-box">
+        <h3>Premium & fragile contents</h3>
+        <p>Antiques, art and pianos travel with specialist wrapping and careful handling. Ask about our <a href="../services/piano-removals.html">piano moves</a> and high-value item cover.</p>
+      </div>
+      <div class="info-box">
+        <h3>Corporate & relocation moves</h3>
+        <p>Solihull's businesses near Blythe Valley and the NEC move with us regularly — see <a href="../services/commercial-relocation.html">commercial relocation</a>.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>M42 Junctions 4, 5 and 6, the A452 and airport routes — we know how to dodge NEC event traffic and school-run congestion in Shirley and Knowle.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get a Solihull Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>2-bed house</td><td>£350–£600</td></tr>
+            <tr><td>3-bed house</td><td>£500–£900</td></tr>
+            <tr><td>4+ bed house</td><td>£800–£1,500</td></tr>
+            <tr><td>Man & van</td><td>From £85</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Popular With Solihull Movers</h3>
+        <ul class="checklist">
+          <li><a href="../services/packing-services.html">Packing Services</a></li>
+          <li><a href="../services/furniture-assembly.html">Furniture Assembly</a></li>
+          <li><a href="../services/storage.html">Storage</a></li>
+          <li><a href="../services/long-distance-removals.html">Long Distance</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Solihull FAQs</span>
+      <h2>Moving in Solihull? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How much does a move cost in Solihull?</summary>
+        <div class="faq-body"><p>Solihull moves typically range from £350 for a small house to £1,500 for a large family home. Your free fixed quote is confirmed in writing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you move antiques and valuable items?</summary>
+        <div class="faq-body"><p>Yes — we wrap antiques and artwork individually and can arrange additional cover for high-value items.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you cover the villages around Solihull?</summary>
+        <div class="faq-body"><p>Yes — Knowle, Dorridge, Balsall Common, Meriden, Hampton-in-Arden and Chadwick End are all regular routes for our crews.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move us into a new build?</summary>
+        <div class="faq-body"><p>Yes — we move families into new homes across Dickens Heath, the M42 corridor and beyond, coordinating parking on development roads.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you offer storage if we need a gap?</summary>
+        <div class="faq-body"><p>Yes — our <a href="../services/storage.html">secure storage</a> bridges chain delays and renovation timelines.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ REVIEWS ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Customer Reviews</span>
+      <h2>What Solihull Customers Say</h2>
+    </div>
+    <div class="grid grid-2">
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Stored our belongings for six weeks between chains, then delivered them all to our new home in Solihull. Every box accounted for. Flawless.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">RB</div><div><strong>Rob B.</strong><span>Solihull move + storage</span></div></div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Moved a family home in Knowle with antique furniture and a piano. Impeccable care from a genuinely lovely crew.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">GW</div><div><strong>Graham W.</strong><span>Knowle</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>Solihull & Neighbouring Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=Solihull%2C%20UK&t=&z=11&ie=UTF8&iwloc=&output=embed" title="Map of Solihull served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-birmingham.html">Birmingham</a>
+      <a href="removals-sutton-coldfield.html">Sutton Coldfield</a>
+      <a href="removals-coventry.html">Coventry</a>
+      <a href="removals-redditch.html">Redditch</a>
+      <a href="removals-tamworth.html">Tamworth</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in Solihull?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,200 @@
+@path locations/removals-birmingham.html
+@title Removals in Birmingham | Local Removal Company | Albert Miles
+@desc Moving in or out of Birmingham? Local removal experts covering all B postcodes — city flats, HMOs & family homes. Fixed prices, £10m cover, CAZ-aware crews. Free quote.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-birmingham.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals Birmingham",
+  "description": "Local removals in Birmingham covering all B postcodes.",
+  "telephone": "+441216792511",
+  "areaServed": "Birmingham, West Midlands",
+  "address": { "@type": "PostalAddress", "addressLocality": "Birmingham", "addressRegion": "West Midlands", "postalCode": "B", "addressCountry": "GB" }
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/albert-miles-removals-20147.webp" alt="Albert Miles removals van in Birmingham" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in Birmingham</h1>
+    <p>We're a Birmingham removals company, and moving people around the city is what we do best — from city-centre apartments to four-bedroom family homes in the suburbs.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">Birmingham</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Moving in Birmingham, the City We Call Home</h2>
+      <p>Birmingham is the second-largest city in the UK — and moving here comes with its own set of challenges. Parking permits, resident zones, the <strong>Birmingham Clean Air Zone</strong>, narrow Victorian terraces, converted flats above shops and apartment blocks with loading bays instead of driveways. As a local company, we've solved all of them, many times.</p>
+      <p>We cover every Birmingham postcode from B1 to B76: the buzzing city centre and Jewellery Quarter, the student areas of Selly Oak and Edgbaston, the family suburbs of Harborne, Kings Heath and Hall Green, and the more leafy corners of Moseley and Sutton Coldfield.</p>
+      <p>Because we're based here, there's no long-distance surcharge on your quote, and we know which streets let you park legally, which buildings have service lifts and which completions happen on the busiest moving days of the year. That local knowledge saves you money, time and stress on moving day.</p>
+
+      <h2>Areas We Cover in Birmingham</h2>
+      <div class="loc-chips">
+        <a href="#birmingham">City Centre (B1–B9)</a>
+        <a href="#birmingham">Jewellery Quarter (B18)</a>
+        <a href="#birmingham">Edgbaston (B15)</a>
+        <a href="#birmingham">Harborne (B17)</a>
+        <a href="#birmingham">Selly Oak (B29)</a>
+        <a href="#birmingham">Moseley (B13)</a>
+        <a href="#birmingham">Kings Heath (B14)</a>
+        <a href="#birmingham">Hall Green (B28)</a>
+        <a href="#birmingham">Erdington (B23–B24)</a>
+        <a href="#birmingham">Acocks Green (B27)</a>
+        <a href="#birmingham">Sheldon (B26)</a>
+        <a href="#birmingham">Castle Bromwich (B36)</a>
+        <a href="removals-sutton-coldfield.html">Sutton Coldfield (B72–B76)</a>
+      </div>
+
+      <h2>Postcodes & Move Types We Handle</h2>
+      <div class="info-box">
+        <h3>City apartments & flats (B1–B9, B18)</h3>
+        <p>Converted warehouses, high-rise blocks and apartment complexes around the city centre and Jewellery Quarter. We know the loading-bay rules, lift sizes and parking arrangements for most major buildings.</p>
+      </div>
+      <div class="info-box">
+        <h3>Student & HMO moves (B15, B29)</h3>
+        <p>Selly Oak and Edgbaston host thousands of students. We move students in and out of shared houses and halls every year — see our <a href="../services/student-moves.html">student moves</a> service.</p>
+      </div>
+      <div class="info-box">
+        <h3>Family homes (B13, B14, B28, B27, B26, B36)</h3>
+        <p>From 1930s semis in Hall Green to Victorian villas in Moseley, family moves are our bread and butter — full packing, furniture dismantling and storage all available.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Popular Birmingham Moves</h3>
+        <ul class="checklist">
+          <li>City flat to family home</li>
+          <li>HMO & student moves</li>
+          <li>Downsizing to sheltered housing</li>
+          <li>Moves out to Solihull & Walsall</li>
+          <li>Office relocations</li>
+          <li>Moves with storage in between</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>We handle Birmingham's <strong>Clean Air Zone</strong>, resident parking permits and restricted loading times on a daily basis — so your move never runs into a fine or a tow-away.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get a Birmingham Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>City flat (local)</td><td>£300–£550</td></tr>
+            <tr><td>3-bed house</td><td>£500–£900</td></tr>
+            <tr><td>4+ bed house</td><td>£750–£1,400</td></tr>
+            <tr><td>Man & van</td><td>From £80</td></tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Birmingham FAQs</span>
+      <h2>Moving in Birmingham? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>Do I need a parking permit for my move in Birmingham?</summary>
+        <div class="faq-body"><p>If you're on a permit-only street, yes — or we can arrange a temporary suspension via Birmingham City Council. We'll advise before moving day, and our crews know the parking rules in every district.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Will your vans be affected by the Clean Air Zone?</summary>
+        <div class="faq-body"><p>No. Our fleet meets the required emission standards, so there are no CAZ charges or delays for your move — even in the city centre.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move a flat in a city-centre apartment block?</summary>
+        <div class="faq-body"><p>Yes. We regularly move flats in converted warehouses and high-rise blocks, booking loading bays and service lifts where required.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you move students in Birmingham?</summary>
+        <div class="faq-body"><p>Absolutely — Selly Oak, Edgbaston and the city centre are some of our busiest student-move areas. See <a href="../services/student-moves.html">student moves</a> for student-friendly pricing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>What's the average cost to move within Birmingham?</summary>
+        <div class="faq-body"><p>Local moves within Birmingham typically range from £300 for a flat to around £1,400 for a large family house, depending on volume and date. Get a free fixed quote to be sure.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ REVIEWS ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Customer Reviews</span>
+      <h2>What Birmingham Customers Say</h2>
+    </div>
+    <div class="grid grid-2">
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Moved from a third-floor flat in the Jewellery Quarter to Harborne. They sorted the loading bay, the lift and the parking — I didn't have to think about a thing.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">RM</div><div><strong>Rachel M.</strong><span>Jewellery Quarter to Harborne</span></div></div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“As a letting agent I recommend Albert Miles to every tenant in my block. Reliable, insured and they know the building's loading rules inside out.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">JC</div><div><strong>James C.</strong><span>City centre letting agent</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>Birmingham & Surrounding Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=Birmingham%2C%20UK&t=&z=11&ie=UTF8&iwloc=&output=embed" title="Map of Birmingham served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-solihull.html">Solihull</a>
+      <a href="removals-sutton-coldfield.html">Sutton Coldfield</a>
+      <a href="removals-west-bromwich.html">West Bromwich</a>
+      <a href="removals-smethwick.html">Smethwick</a>
+      <a href="removals-walsall.html">Walsall</a>
+      <a href="removals-coventry.html">Coventry</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in Birmingham?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

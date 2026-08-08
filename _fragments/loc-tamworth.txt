@@ -1,0 +1,168 @@
+@path locations/removals-tamworth.html
+@title Removals in Tamworth | Local Movers | Albert Miles
+@desc House & office removals in Tamworth covering B77–B79. Local experts in Wilnecote, Amington & more. Fixed prices, £10m cover. Free quotes today.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-tamworth.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals Tamworth",
+  "telephone": "+441216792511",
+  "areaServed": "Tamworth, Staffordshire"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Albert Miles removals van in Tamworth" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in Tamworth</h1>
+    <p>Castle town, family favourite — from Wilnecote's estates to Amington and Belgrave, we move Tamworth with a reliable local crew.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">Tamworth</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Tamworth Moves, Straight Up the M42</h2>
+      <p>Tamworth is one of the most popular family towns in the region, with strong schools, the Castle, the Snowdome and excellent M42 access. That combination means a steady flow of moves in, out and around the town — and we're only 30 minutes away.</p>
+      <p>We cover the B77–B79 postcodes: Tamworth town (B79), Wilnecote and Glascote (B77), Amington (B77), Belgrave (B77), Two Gates and the A5 developments (B77), plus the villages and the edges toward Lichfield and Sutton Coldfield.</p>
+      <p>Whether it's a family semi in Amington, a new build on the A5 corridor or a move between Tamworth and Birmingham, our crews handle it with the same care, fixed pricing and on-time reliability we're known for.</p>
+
+      <h2>Areas We Cover</h2>
+      <div class="loc-chips">
+        <a href="#tamworth">Tamworth Town (B79)</a>
+        <a href="#tamworth">Wilnecote (B77)</a>
+        <a href="#tamworth">Glascote (B77)</a>
+        <a href="#tamworth">Amington (B77)</a>
+        <a href="#tamworth">Belgrave (B77)</a>
+        <a href="#tamworth">Two Gates (B77)</a>
+        <a href="#tamworth">Kettlebrook (B77)</a>
+        <a href="#tamworth">Polesworth (B78)</a>
+        <a href="removals-lichfield.html">Lichfield (WS13)</a>
+        <a href="removals-sutton-coldfield.html">Sutton Coldfield (B72)</a>
+      </div>
+
+      <h2>Popular Moves in Tamworth</h2>
+      <div class="info-box">
+        <h3>Family homes</h3>
+        <p>Amington, Belgrave and Wilnecote are full of family homes that move regularly — full packing, furniture handling and reassembly included.</p>
+      </div>
+      <div class="info-box">
+        <h3>New builds on the A5</h3>
+        <p>The A5 corridor has seen major development. We move families into new homes across the area, coordinating parking on new roads.</p>
+      </div>
+      <div class="info-box">
+        <h3>Moves to Birmingham & Lichfield</h3>
+        <p>The M42 makes these short, common routes. We quote them as fixed door-to-door prices.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>M42 J10 and the A5 are our main routes in. We know Tamworth's estate layouts and the town-centre parking rules around the Castle Grounds.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get a Tamworth Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>1-bed flat</td><td>£290–£490</td></tr>
+            <tr><td>3-bed house</td><td>£450–£800</td></tr>
+            <tr><td>4-bed house</td><td>£690–£1,220</td></tr>
+            <tr><td>Man & van</td><td>From £85</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Related Services</h3>
+        <ul class="checklist">
+          <li><a href="../services/packing-services.html">Packing Services</a></li>
+          <li><a href="../services/storage.html">Storage</a></li>
+          <li><a href="../services/man-and-van.html">Man & Van</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Tamworth FAQs</span>
+      <h2>Moving in Tamworth? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How much does a move cost in Tamworth?</summary>
+        <div class="faq-body"><p>Local moves typically range from £290 for a flat to around £1,220 for a large family home. Your free fixed quote is confirmed in writing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you cover Wilnecote and Amington?</summary>
+        <div class="faq-body"><p>Yes — the B77–B79 postcodes, including Glascote, Belgrave, Two Gates and Kettlebrook, are all regular routes.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move us to a new-build estate?</summary>
+        <div class="faq-body"><p>Yes — we move families into new homes across the A5 corridor regularly, coordinating access on new roads.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you move between Tamworth and Birmingham?</summary>
+        <div class="faq-body"><p>Yes — the M42 makes it a quick, common route. We'll quote a fixed door-to-door price.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you store belongings?</summary>
+        <div class="faq-body"><p>Yes — see <a href="../services/storage.html">storage</a> for secure, flexible terms with collection and delivery.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>Tamworth & Neighbouring Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=Tamworth%2C%20UK&t=&z=12&ie=UTF8&iwloc=&output=embed" title="Map of Tamworth served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-lichfield.html">Lichfield</a>
+      <a href="removals-sutton-coldfield.html">Sutton Coldfield</a>
+      <a href="removals-birmingham.html">Birmingham</a>
+      <a href="removals-burton-upon-trent.html">Burton upon Trent</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in Tamworth?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

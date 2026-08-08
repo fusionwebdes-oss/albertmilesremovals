@@ -1,0 +1,191 @@
+@path services/packing-services.html
+@title Packing Services & Materials | Professional Packing | Albert Miles
+@desc Professional packing services across the West Midlands. Full or partial home packing with premium boxes and materials. Fragile items, kitchens, whole houses. Free quotes.
+@canonical https://www.albertmilesremovals.co.uk/services/packing-services.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Packing Services in the West Midlands",
+  "serviceType": "Packing Service",
+  "provider": { "@type": "LocalBusiness", "name": "Albert Miles Removals", "telephone": "+441216792511" },
+  "areaServed": "West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Packing-Services.webp" alt="Professional packing boxes and materials from Albert Miles" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Professional Packing Services</h1>
+    <p>Packing done properly — with premium materials, skilled hands and a label on every single box.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li>Services</li>
+        <li aria-current="page">Packing Services</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Let Us Do the Hard Part</h2>
+      <p>Packing is the most time-consuming part of any move — the average 3-bed house takes around 40 hours to pack properly. That's a full working week you could be spending on solicitors, estate agents, schools and everything else moving involves.</p>
+      <p>Our packing team wraps, boxes and labels your belongings using professional materials: double-walled boxes, tissue paper, bubble wrap, glass inserts and heavy-duty wardrobe cartons. When we're done, every box is marked with its contents and its destination room, so unpacking at the other end is straightforward.</p>
+      <p>We offer full packing, part packing (kitchens, fragile items, bedrooms) and a self-pack box supply service. Whatever you choose, our movers will collect everything on move day and get it safely to your new home.</p>
+
+      <h2>Packing Options</h2>
+      <div class="grid grid-2">
+        <div class="info-box">
+          <h3>Full Packing Service</h3>
+          <p>We pack every room in your home — including the kitchen, wardrobes, bookshelves and loft. Typically completed in 1–2 days.</p>
+        </div>
+        <div class="info-box">
+          <h3>Part Packing</h3>
+          <p>We pack what you can't face: the kitchen, the fragile china, the kids' toys or the glass-fronted cabinet.</p>
+        </div>
+        <div class="info-box">
+          <h3>Fragile Only</h3>
+          <p>Artwork, mirrors, electronics and delicate items packed with specialist materials and protective corners.</p>
+        </div>
+        <div class="info-box">
+          <h3>Box Supply</h3>
+          <p>Delivery of boxes, tape, labels and wrap so you can pack at your own pace. Return what you don't use.</p>
+        </div>
+      </div>
+
+      <h2>The Process</h2>
+      <div class="steps">
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Decide your level</h3><p>Tell us what you'd like packed and we'll quote a fixed price for the work.</p></div></div>
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>We arrive with materials</h3><p>Our team brings everything — boxes, wrap, tape, labels and protective sheeting.</p></div></div>
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Pack & label</h3><p>Room by room, we pack and label every box with contents and destination.</p></div></div>
+        <div class="step"><div class="step-num" aria-hidden="true"></div><div><h3>Move & unpack</h3><p>Your packed boxes travel with our removals team, ready to unload wherever you direct.</p></div></div>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Packing option</th><th>Typical price</th></tr>
+            <tr><td>Fragile items only</td><td>£90–£180</td></tr>
+            <tr><td>Part packing (kitchen etc.)</td><td>£180–£400</td></tr>
+            <tr><td>Full 1–2 bed home</td><td>£350–£650</td></tr>
+            <tr><td>Full 3+ bed home</td><td>£550–£1,000</td></tr>
+          </table>
+        </div>
+        <p style="font-size:0.82rem;color:var(--text-muted);margin-top:0.6rem;">Materials included. Prices vary with home size and quantity of belongings.</p>
+        <a class="btn btn-red btn-block" href="../quote.html">Get Your Free Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Materials We Use</h3>
+        <ul class="checklist">
+          <li>Double-walled moving boxes</li>
+          <li>Wardrobe cartons</li>
+          <li>Bubble wrap & tissue paper</li>
+          <li>Glass & fragile inserts</li>
+          <li>Stretch wrap & tape</li>
+          <li>Furniture blankets & covers</li>
+          <li>Labels & marker pens</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pro Packing Tips</h3>
+        <p style="margin-bottom:0.8rem;">Pack heavy items in small boxes and light items in large ones. Never overfill a box, and always label the room on the top and the side. Visit our blog for a full <a href="../blog/index.html">packing guide</a>.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ WHY ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Why Professional Packing</span>
+      <h2>Packing That Pays for Itself</h2>
+    </div>
+    <div class="grid grid-3">
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">✔</div>
+        <div><h3>Fewer breakages</h3><p>Correct materials and technique mean far less damage than a rushed DIY pack.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">✔</div>
+        <div><h3>Saves days of work</h3><p>Our team packs a 3-bed home in a day — the same job takes most people a week.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">✔</div>
+        <div><h3>Lower insurance risk</h3><p>Professionally packed items are covered and far less likely to need a claim.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">✔</div>
+        <div><h3>Label-led unpacking</h3><p>Every box labelled by room and content means fast, easy unpacking.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">✔</div>
+        <div><h3>Eco-conscious</h3><p>We use recycled and recyclable materials wherever possible.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">✔</div>
+        <div><h3>Part of the move</h3><p>Combine packing with a full removal and save — one crew, one quote, one invoice.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Packing FAQs</span>
+      <h2>Questions About Packing Services</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How long does it take to pack a house?</summary>
+        <div class="faq-body"><p>A professional team packs a typical 3-bed home in one full day. A 1–2 bed flat usually takes half a day, and larger homes 1–2 days.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>What packing materials do you provide?</summary>
+        <div class="faq-body"><p>Everything you need: double-walled boxes, wardrobe cartons, bubble wrap, tissue, tape, labels and protective covers — all included in your packing quote.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you pack fragile and valuable items?</summary>
+        <div class="faq-body"><p>Yes. Glass, china, artwork and electronics get specialist materials and careful labelling. For very high-value items we can also arrange extra insurance.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can I pack some things myself?</summary>
+        <div class="faq-body"><p>Of course — many customers pack clothes and books themselves and leave the tricky stuff to us. We'll quote for whichever rooms you want covered.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you unpack at the other end?</summary>
+        <div class="faq-body"><p>Yes, we offer an unpacking service too — boxes placed in the right rooms and unpacked, with packing materials taken away for recycling.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Leave the Packing to Us</h2>
+        <p>Get a fixed price for full or part packing — materials included.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

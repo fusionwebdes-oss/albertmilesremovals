@@ -1,0 +1,147 @@
+@path services/storage.html
+@title Secure Storage in the West Midlands | Albert Miles Removals
+@desc Secure, dry, monitored storage units across the West Midlands. Flexible terms from a few boxes to a whole house. Combine with removals for the best rates. Free quotes.
+@canonical https://www.albertmilesremovals.co.uk/services/storage.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Secure Storage in the West Midlands",
+  "serviceType": "Storage Service",
+  "provider": { "@type": "LocalBusiness", "name": "Albert Miles Removals", "telephone": "+441216792511" },
+  "areaServed": "West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/How-to-get-a-moving-company-to-not-damage-my-stuff1.webp" alt="Boxes being stored securely by Albert Miles" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Secure Storage in the West Midlands</h1>
+    <p>Dry, monitored, flexible storage — the perfect bridge between moving out and moving in.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li>Services</li>
+        <li aria-current="page">Storage</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Storage That's There When You Need It</h2>
+      <p>Completion dates rarely line up neatly. If there's a gap between handing over the keys and picking up the new ones, our secure storage is the simplest solution — and we make it genuinely easy.</p>
+      <p>Unlike conventional self-storage where you do the lifting, our service is door-to-door: we collect your belongings from your old home, store them in clean, dry, monitored units, and deliver them to your new home whenever you're ready. You never have to hire a van, queue for a lift or carry boxes up a loading ramp.</p>
+      <p>Whether you need space for a few boxes during a house sale or a full 4-bedroom household for several months, we'll size the unit to fit and store your furniture on proper racking where needed so nothing sits on a damp floor.</p>
+
+      <h2>What's Included</h2>
+      <ul class="checklist">
+        <li>Clean, dry, temperature-controlled units</li>
+        <li>24/7 monitored security</li>
+        <li>Collection & delivery included</li>
+        <li>Furniture racking & blankets</li>
+        <li>Full inventory list</li>
+        <li>Flexible weekly/monthly terms</li>
+        <li>Vehicle access for deliveries</li>
+        <li>Contents cover available</li>
+      </ul>
+
+      <h2>When People Use Our Storage</h2>
+      <div class="grid grid-2">
+        <div class="info-box">
+          <h3>Between completions</h3>
+          <p>House sale and purchase dates don't line up. Store the furniture, bridge the gap, deliver on completion day.</p>
+        </div>
+        <div class="info-box">
+          <h3>Renovations & extensions</h3>
+          <p>Builders in the house? Clear the rooms into storage and protect your belongings from dust and damage.</p>
+        </div>
+        <div class="info-box">
+          <h3>Overseas & long-distance moves</h3>
+          <p>Store what you're not taking with you until you're settled — or while your goods are in transit.</p>
+        </div>
+        <div class="info-box">
+          <h3>Downsizing</h3>
+          <p>Keep the family furniture while you decide what fits in the new, smaller home.</p>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Storage size</th><th>From (per month)</th></tr>
+            <tr><td>Small (a room)</td><td>£79</td></tr>
+            <tr><td>Medium (flat / 2-bed)</td><td>£120</td></tr>
+            <tr><td>Large (3-bed house)</td><td>£180</td></tr>
+            <tr><td>Extra large (4+ bed)</td><td>£240</td></tr>
+          </table>
+        </div>
+        <p style="font-size:0.82rem;color:var(--text-muted);margin-top:0.6rem;">Collection and delivery are charged separately and are often included when storage is booked as part of a full removal.</p>
+        <a class="btn btn-red btn-block" href="../quote.html">Get Your Free Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Storage + Removal Bundle</h3>
+        <p>Book storage with any removal and you'll usually pay less overall than organising them separately. One team, one quote, one seamless experience.</p>
+        <a class="btn btn-charcoal" href="../services/house-removals.html">See House Removals</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Storage FAQs</span>
+      <h2>Questions About Our Storage</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>Is my furniture safe in storage?</summary>
+        <div class="faq-body"><p>Yes. Units are clean, dry and monitored 24/7. We rack furniture off the floor, wrap upholstery and cover everything in protective blankets.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can I visit or access my stored items?</summary>
+        <div class="faq-body"><p>Yes — arrange access with us and we'll open the unit for you. You can also add or remove items (we'll help you load them).</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>How short can a storage term be?</summary>
+        <div class="faq-body"><p>We offer flexible terms from just a few weeks up to 12+ months. You only pay for the time you use.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Is contents insurance available?</summary>
+        <div class="faq-body"><p>Yes. Your belongings remain covered under our goods-in-transit policy during collection and delivery, and contents cover for storage can be arranged.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you store a vehicle or large equipment?</summary>
+        <div class="faq-body"><p>We focus on household and office contents, but for large items such as motorbikes or machinery, get in touch and we'll see if we can accommodate them.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Need Some Space?</h2>
+        <p>Tell us what you need to store and we'll price it up — no obligation.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

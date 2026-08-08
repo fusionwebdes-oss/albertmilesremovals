@@ -1,0 +1,168 @@
+@path locations/removals-nuneaton.html
+@title Removals in Nuneaton | Local Movers | Albert Miles
+@desc House & office removals in Nuneaton covering CV10–CV13. Local experts in Stockingford, Attleborough & more. Fixed prices, £10m cover. Free quotes today.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-nuneaton.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals Nuneaton",
+  "telephone": "+441216792511",
+  "areaServed": "Nuneaton, Warwickshire"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/albert-miles-removals-20147.webp" alt="Albert Miles removals van in Nuneaton" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in Nuneaton</h1>
+    <p>From terraced homes near the town centre to family estates in Stockingford and Attleborough, we move Nuneaton with a reliable local crew.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">Nuneaton</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Nuneaton Moves, Close to the M6</h2>
+      <p>Nuneaton is George Eliot's town and a strong family market at the northern tip of Warwickshire. Its housing spans Victorian terraces near the centre, 1930s semis and popular modern estates — the kind of variety our crews handle every day.</p>
+      <p>We cover the CV10–CV13 postcodes: Nuneaton town (CV10), Stockingford and Galley Common (CV10), Camp Hill (CV10), Attleborough (CV11), Weddington (CV10), Bulkington (CV12) and the villages like Hartshill and Ansley. Moves to Coventry, Hinckley, Rugby, Tamworth and Birmingham are all regular routes.</p>
+      <p>At M6 J3, Nuneaton is easy for us to reach — and the pricing reflects it. Local moves in and out of the town's estates are quoted at keen fixed prices with the same fully-insured, professional crews as everywhere else.</p>
+
+      <h2>Areas We Cover</h2>
+      <div class="loc-chips">
+        <a href="#nuneaton">Nuneaton Town (CV10)</a>
+        <a href="#nuneaton">Stockingford (CV10)</a>
+        <a href="#nuneaton">Galley Common (CV10)</a>
+        <a href="#nuneaton">Camp Hill (CV10)</a>
+        <a href="#nuneaton">Attleborough (CV11)</a>
+        <a href="#nuneaton">Weddington (CV10)</a>
+        <a href="#nuneaton">Bulkington (CV12)</a>
+        <a href="#nuneaton">Hartshill (CV10)</a>
+        <a href="removals-coventry.html">Coventry (CV1)</a>
+        <a href="removals-rugby.html">Rugby (CV21)</a>
+      </div>
+
+      <h2>Popular Moves in Nuneaton</h2>
+      <div class="info-box">
+        <h3>Family estates</h3>
+        <p>Stockingford, Camp Hill and Attleborough are full of family homes — full-house moves with packing and furniture handling included.</p>
+      </div>
+      <div class="info-box">
+        <h3>Village moves</h3>
+        <p>Hartshill, Ansley and the CV13 villages are popular with families moving out of town. Our crews know the lanes well.</p>
+      </div>
+      <div class="info-box">
+        <h3>Business moves</h3>
+        <p>Nuneaton's industrial and commercial premises move with us — see <a href="../services/commercial-relocation.html">commercial relocation</a>.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>M6 J3 and the A444 give us quick, reliable routes into Nuneaton. We know the town-centre one-ways and the estate layouts inside out.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get a Nuneaton Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>1-bed flat</td><td>£290–£490</td></tr>
+            <tr><td>3-bed house</td><td>£450–£800</td></tr>
+            <tr><td>4-bed house</td><td>£690–£1,220</td></tr>
+            <tr><td>Man & van</td><td>From £85</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Related Services</h3>
+        <ul class="checklist">
+          <li><a href="../services/packing-services.html">Packing Services</a></li>
+          <li><a href="../services/storage.html">Storage</a></li>
+          <li><a href="../services/man-and-van.html">Man & Van</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Nuneaton FAQs</span>
+      <h2>Moving in Nuneaton? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How much does a move cost in Nuneaton?</summary>
+        <div class="faq-body"><p>Local moves typically range from £290 for a flat to around £1,220 for a large family home. Your free fixed quote is confirmed in writing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you cover Stockingford and Attleborough?</summary>
+        <div class="faq-body"><p>Yes — the CV10–CV13 postcodes, including Galley Common, Camp Hill and Bulkington, are all regular routes.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move us to Coventry or Hinckley?</summary>
+        <div class="faq-body"><p>Yes — these are short, regular routes for us. We'll quote a fixed door-to-door price.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you move students in Nuneaton?</summary>
+        <div class="faq-body"><p>Yes — we move students between Nuneaton and the surrounding colleges and unis. See <a href="../services/student-moves.html">student moves</a>.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you store belongings?</summary>
+        <div class="faq-body"><p>Yes — see <a href="../services/storage.html">storage</a> for secure, flexible terms with collection and delivery.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>Nuneaton & Neighbouring Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=Nuneaton%2C%20UK&t=&z=12&ie=UTF8&iwloc=&output=embed" title="Map of Nuneaton served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-coventry.html">Coventry</a>
+      <a href="removals-rugby.html">Rugby</a>
+      <a href="removals-tamworth.html">Tamworth</a>
+      <a href="removals-burton-upon-trent.html">Burton upon Trent</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in Nuneaton?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

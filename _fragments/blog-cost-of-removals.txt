@@ -1,0 +1,103 @@
+@path blog/cost-of-removals.html
+@title How Much Do Removals Cost in 2026? | Albert Miles Blog
+@desc Real removal prices for 2026 — local moves, long-distance, man & van. See what drives the cost and how fixed quotes protect you.
+@canonical https://www.albertmilesremovals.co.uk/blog/cost-of-removals.html
+@active blog/index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How Much Do Removals Cost in the UK in 2026?",
+  "author": { "@type": "Organization", "name": "Albert Miles Removals" },
+  "publisher": { "@type": "Organization", "name": "Albert Miles Removals" }
+}
+@body
+<!-- ============ ARTICLE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Removal crew loading a van" loading="eager">
+  </div>
+  <div class="container">
+    <div class="post-meta"><span>Guides</span><span>6 min read</span></div>
+    <h1>How Much Do Removals Cost in the UK in 2026?</h1>
+    <p class="lead">A straight answer, with real numbers — so you know roughly what to expect before you get a quote.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Blog</a></li>
+        <li aria-current="page">Cost of Removals</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ ARTICLE BODY ============ -->
+<section class="section">
+  <div class="container article">
+    <div class="prose">
+      <h2>The Short Answer</h2>
+      <p>Most local house moves in the UK cost between <strong>£300 and £1,200</strong>, depending on size, distance and time of year. A man-and-van job might be <strong>£80–£300</strong>, while a long-distance move can run <strong>£500–£2,500+</strong>.</p>
+      <p>Those ranges are deliberately wide, because price is driven by specifics. Here's what actually moves the number.</p>
+
+      <h2>Typical Prices by Property Size</h2>
+      <table>
+        <thead><tr><th>Move type</th><th>Typical range</th></tr></thead>
+        <tbody>
+          <tr><td>Studio / 1-bed flat</td><td>£250–£500</td></tr>
+          <tr><td>2-bed flat / house</td><td>£300–£650</td></tr>
+          <tr><td>3-bed house</td><td>£400–£900</td></tr>
+          <tr><td>4-bed house</td><td>£600–£1,300</td></tr>
+          <tr><td>5+ bed house</td><td>£900–£2,000</td></tr>
+          <tr><td>Man & van (local)</td><td>£80–£300</td></tr>
+        </tbody>
+      </table>
+      <p class="muted">Prices vary by region and season. These are typical UK ranges for 2026, not a quote.</p>
+
+      <h2>What Drives the Cost</h2>
+      <h3>1. Property size and volume</h3>
+      <p>More belongings mean a bigger vehicle and more crew hours. A 3-bed house typically needs a 3.5-tonne luton van and two movers for a full day — that's the core of the cost.</p>
+      <h3>2. Distance</h3>
+      <p>Longer runs cost more for fuel, driver time and travel. The jump from "local" to "cross-country" is often the biggest single price leap.</p>
+      <h3>3. Access and stairs</h3>
+      <p>Ground-floor with a drive? Cheap and easy. A second-floor flat with narrow stairs and no parking? The crew needs more time and skill. Expect a modest uplift.</p>
+      <h3>4. Extra services</h3>
+      <p>Full packing, dismantling/reassembly of furniture, and storage each add to the price — but they often save you money overall in time and risk.</p>
+      <h3>5. Timing</h3>
+      <p>Weekends, month-ends and school holidays are the busiest — and priciest. A midweek move can save you real money.</p>
+
+      <h2>Fixed Quotes vs Hourly Rates</h2>
+      <p>Hourly rates sound transparent but punish you for the unavoidable — traffic, a slow lift, a last-minute rethink. A <strong>fixed quote</strong> locks the price before you book, based on a proper inventory, and that's how we work.</p>
+      <p>Get a fixed price from us via the <a href="../quote.html">quote page</a> — it's free, no obligation, and confirmed in writing.</p>
+
+      <h2>How to Save Money on a Move</h2>
+      <ul>
+        <li>Book midweek, not a Friday or month-end.</li>
+        <li>Declutter before you get quoted — you pay to move things.</li>
+        <li>Pack boxes yourself if you have time (see our <a href="packing-tips.html">packing tips</a>).</li>
+        <li>Get quotes from at least two reputable firms, not the cheapest anonymous van.</li>
+      </ul>
+
+      <h2>One Thing to Always Ask For</h2>
+      <p>Goods-in-transit insurance. Professional firms carry £10m+ cover with clear terms. If a quote looks too good, ask what happens if something breaks.</p>
+
+      <h2>Ready for a Real Number?</h2>
+      <p>Tell us what you're moving and we'll give you a fixed price. <a href="../quote.html">Request a quote</a> or call <a href="tel:+441216792511">0121 679 2511</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Want a Fixed Price?</h2>
+        <p>Free, no-obligation quotes from the West Midlands' trusted removals crew.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,93 @@
+@path blog/long-distance-moves.html
+@title Long-Distance Moves: A Practical Guide | Albert Miles Blog
+@desc Planning a relocation across the UK? What to prepare, what to ask and what to expect from a professional long-distance move.
+@canonical https://www.albertmilesremovals.co.uk/blog/long-distance-moves.html
+@active blog/index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Long-Distance Moves: A Practical Guide",
+  "author": { "@type": "Organization", "name": "Albert Miles Removals" },
+  "publisher": { "@type": "Organization", "name": "Albert Miles Removals" }
+}
+@body
+<!-- ============ ARTICLE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/albert-miles-removals-20147.webp" alt="Removals van travelling long distance" loading="eager">
+  </div>
+  <div class="container">
+    <div class="post-meta"><span>Guides</span><span>7 min read</span></div>
+    <h1>Long-Distance Moves: A Practical Guide</h1>
+    <p class="lead">Relocating across the UK? It's a different beast to a local move — here's how to get it right.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Blog</a></li>
+        <li aria-current="page">Long-Distance Moves</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ ARTICLE BODY ============ -->
+<section class="section">
+  <div class="container article">
+    <div class="prose">
+      <h2>Why Long-Distance Is Different</h2>
+      <p>A long-distance move isn't just a local move with a longer drive. The crew is away for a full day or more, fuel and driver time multiply, and the logistics — two properties in different towns, no room for a "quick dash back" — need a plan.</p>
+      <p>That's why our <a href="../services/long-distance-removals.html">long-distance removal service</a> is handled as a dedicated process, with a confirmed fixed price that covers the whole job.</p>
+
+      <h2>What Affects a Long-Distance Price</h2>
+      <ul>
+        <li><strong>Mileage</strong> — the distance between the two addresses, including return.</li>
+        <li><strong>Vehicle size</strong> — matching the van to your volume so you're not paying for empty space.</li>
+        <li><strong>Crew size</strong> — two or three movers depending on the property.</li>
+        <li><strong>Timing</strong> — overnight stops only apply for Scotland and far-flung corners.</li>
+        <li><strong>Insurance</strong> — full transit cover for the whole journey.</li>
+      </ul>
+
+      <h2>What to Ask Before You Book</h2>
+      <ul>
+        <li>Is the price fixed or an estimate? (Ours is fixed, in writing.)</li>
+        <li>What's covered by insurance, and what's the excess?</li>
+        <li>Who handles the vehicle if there's a breakdown en route?</li>
+        <li>Can the crew call ahead with an ETA for your new home?</li>
+      </ul>
+
+      <h2>Prepare Your New Home</h2>
+      <p>Long-distance moves arrive in the evening more often than local ones. Have the new property accessible, cleared, and — ideally — with someone there to receive the crew. If you can't be there, arrange a trusted contact with a key and a phone.</p>
+
+      <h2>Plan the Night Before</h2>
+      <ul>
+        <li>Pack an overnight bag — you may arrive after shops close.</li>
+        <li>Keep valuables, medicine and important documents with you, not the van.</li>
+        <li>Charge phones and have the new address + directions to hand.</li>
+        <li>Consider a fuel-friendly route in advance to avoid surprises.</li>
+      </ul>
+
+      <h2>Popular Routes From the West Midlands</h2>
+      <p>We regularly move families and businesses from Birmingham and the Black Country to London, the South West, the North West and Scotland. If it's a UK route, we can quote it.</p>
+
+      <h2>Get a Fixed Quote</h2>
+      <p>Tell us where you're heading and we'll give you a firm price — no hidden mileage charges. <a href="../quote.html">Request a quote</a> or call <a href="tel:+441216792511">0121 679 2511</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving Across the UK?</h2>
+        <p>Fixed long-distance prices, confirmed in writing.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

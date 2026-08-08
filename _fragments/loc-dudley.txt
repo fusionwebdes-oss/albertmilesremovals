@@ -1,0 +1,191 @@
+@path locations/removals-dudley.html
+@title Removals in Dudley | Local Movers | Albert Miles
+@desc House & office removals in Dudley covering all DY postcodes. Local experts in Netherton, Kingswinford, Brierley Hill & more. Fixed prices, £10m cover. Free quotes.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-dudley.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals Dudley",
+  "telephone": "+441216792511",
+  "areaServed": "Dudley, West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/albert-miles-removals-20147.webp" alt="Albert Miles removals crew in Dudley" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in Dudley</h1>
+    <p>Castle-town moves handled by crews who know the Black Country — from Netherton's terraces to Kingswinford's family estates.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">Dudley</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Dudley Moves With Black Country Common Sense</h2>
+      <p>Dudley is the historic heart of the Black Country, and it's a borough with real variety: old terraced streets around Netherton and Woodside, 1930s and 1960s housing across Sedgley and Quarry Bank, and the highly popular family estates of Kingswinford and Wordsley.</p>
+      <p>We cover the DY postcodes around the borough: Dudley town (DY1–DY3), Netherton (DY2), Kingswinford (DY6), Brierley Hill (DY5), Quarry Bank, Gornal and Sedgley, plus the neighbouring areas of Stourbridge and Lye (DY8–DY9).</p>
+      <p>Our crews are local. They know that the roads around Merry Hill fill up on Saturdays, that netherton's terraces have limited frontage for a van, and which routes avoid the worst of the Black Country traffic. That's the kind of knowledge that keeps moving day on schedule.</p>
+
+      <h2>Areas We Cover</h2>
+      <div class="loc-chips">
+        <a href="#dudley">Dudley Town (DY1)</a>
+        <a href="#dudley">Netherton (DY2)</a>
+        <a href="#dudley">Woodside (DY2)</a>
+        <a href="#dudley">Brierley Hill (DY5)</a>
+        <a href="#dudley">Kingswinford (DY6)</a>
+        <a href="#dudley">Quarry Bank (DY5)</a>
+        <a href="#dudley">Gornal (DY3)</a>
+        <a href="#dudley">Sedgley (DY3)</a>
+        <a href="removals-stourbridge.html">Stourbridge (DY8)</a>
+        <a href="removals-halesowen.html">Halesowen (B62)</a>
+      </div>
+
+      <h2>Popular Moves in Dudley</h2>
+      <div class="info-box">
+        <h3>Kingswinford & family estates</h3>
+        <p>Family homes across DY6 are full-house moves — wardrobes, sofas, sheds and everything else. We bring packing, dismantling and reassembly as standard.</p>
+      </div>
+      <div class="info-box">
+        <h3>Terraced homes near town</h3>
+        <p>Netherton and Woodside terraces often need careful parking planning and furniture dismantling. Our local crews handle it routinely.</p>
+      </div>
+      <div class="info-box">
+        <h3>Business moves & storage</h3>
+        <p>From offices near the town centre to units around Merry Hill, plus storage when completion dates slip — we've got it covered.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>We know Dudley inside out — from the Castle and Zoo junction to the A461 and the routes that dodge Merry Hill's weekend gridlock.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get a Dudley Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>1-bed flat</td><td>£270–£460</td></tr>
+            <tr><td>3-bed house</td><td>£420–£760</td></tr>
+            <tr><td>4-bed house</td><td>£650–£1,150</td></tr>
+            <tr><td>Man & van</td><td>From £80</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Nearby Services</h3>
+        <ul class="checklist">
+          <li><a href="../services/piano-removals.html">Piano Removals</a></li>
+          <li><a href="../services/packing-services.html">Packing Services</a></li>
+          <li><a href="../services/storage.html">Storage</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Dudley FAQs</span>
+      <h2>Moving in Dudley? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How much does a move cost in Dudley?</summary>
+        <div class="faq-body"><p>Local moves typically range from £270 for a flat to around £1,150 for a large family house. Your free fixed quote is confirmed in writing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you cover Kingswinford and Brierley Hill?</summary>
+        <div class="faq-body"><p>Yes — DY5 and DY6 are among our most regular areas, alongside Netherton, Gornal and Sedgley.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move a piano in Dudley?</summary>
+        <div class="faq-body"><p>Yes — we specialise in <a href="../services/piano-removals.html">piano removals</a> and regularly move uprights and grands around the DY postcodes.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move our business in Dudley?</summary>
+        <div class="faq-body"><p>Yes — offices, shops and units across the borough. See <a href="../services/office-removals.html">office removals</a>.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you offer storage near Dudley?</summary>
+        <div class="faq-body"><p>Yes — flexible secure storage with collection and delivery included. See <a href="../services/storage.html">storage</a>.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ REVIEWS ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Customer Reviews</span>
+      <h2>What Dudley Customers Say</h2>
+    </div>
+    <div class="grid grid-2">
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Moved our baby grand from Dudley to Stourbridge with proper skids and a team who knew what they were doing. Worth every penny.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">MK</div><div><strong>Martin K.</strong><span>Dudley to Stourbridge</span></div></div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Moved our 4-bed in Kingswinford without a scratch. Dismantled the wardrobe, rebuilt it in the new house, took all the packaging away.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">SH</div><div><strong>Steve H.</strong><span>Kingswinford</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>Dudley & Neighbouring Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=Dudley%2C%20UK&t=&z=11&ie=UTF8&iwloc=&output=embed" title="Map of Dudley served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-stourbridge.html">Stourbridge</a>
+      <a href="removals-halesowen.html">Halesowen</a>
+      <a href="removals-west-bromwich.html">West Bromwich</a>
+      <a href="removals-oldbury.html">Oldbury</a>
+      <a href="removals-tipton.html">Tipton</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in Dudley?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

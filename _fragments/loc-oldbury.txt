@@ -1,0 +1,166 @@
+@path locations/removals-oldbury.html
+@title Removals in Oldbury | Local Movers | Albert Miles
+@desc House removals in Oldbury covering B69. Local experts in Langley, Brandhall & more. Fixed prices, £10m cover. Free quotes today.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-oldbury.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals Oldbury",
+  "telephone": "+441216792511",
+  "areaServed": "Oldbury, West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles-5.webp" alt="Albert Miles removals team in Oldbury" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in Oldbury</h1>
+    <p>Smart Black Country moves — from Langley to Brandhall, we move Oldbury homes with a dependable local crew.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">Oldbury</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Oldbury Moves With Local Reliability</h2>
+      <p>Oldbury is a well-connected Sandwell town with easy M5 access, a mix of classic terraces and modern estates, and plenty of families moving in and out of the wider West Midlands.</p>
+      <p>We cover the B69 postcode: Oldbury town, Langley, Brandhall, Warley, Titford and the estates on the edges toward West Bromwich, Smethwick and Halesowen.</p>
+      <p>From terraced rows near the canal to family homes on Brandhall's leafy estates, our crews bring the same fixed-price promise, careful handling and on-time reliability to every Oldbury move.</p>
+
+      <h2>Areas We Cover</h2>
+      <div class="loc-chips">
+        <a href="#oldbury">Oldbury Town (B69)</a>
+        <a href="#oldbury">Langley (B69)</a>
+        <a href="#oldbury">Brandhall (B68)</a>
+        <a href="#oldbury">Warley (B67)</a>
+        <a href="#oldbury">Titford (B69)</a>
+        <a href="removals-west-bromwich.html">West Bromwich (B70)</a>
+        <a href="removals-smethwick.html">Smethwick (B66)</a>
+        <a href="removals-halesowen.html">Halesowen (B63)</a>
+      </div>
+
+      <h2>Popular Moves in Oldbury</h2>
+      <div class="info-box">
+        <h3>Family estates</h3>
+        <p>Brandhall, Langley and Warley are full of family homes that move regularly — full packing and furniture handling included.</p>
+      </div>
+      <div class="info-box">
+        <h3>Terraced & period homes</h3>
+        <p>Oldbury's older rows need extra care with access and parking — a job our experienced crews handle well.</p>
+      </div>
+      <div class="info-box">
+        <h3>Business moves</h3>
+        <p>Offices and units around the M5 corridor move with us — see <a href="../services/commercial-relocation.html">commercial relocation</a>.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>M5 J2 is on our doorstep, so routes into Oldbury are fast — and we know Langley's streets and the town-centre parking rules well.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get an Oldbury Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>1-bed flat</td><td>£260–£440</td></tr>
+            <tr><td>3-bed house</td><td>£400–£720</td></tr>
+            <tr><td>4-bed house</td><td>£620–£1,100</td></tr>
+            <tr><td>Man & van</td><td>From £80</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Related Services</h3>
+        <ul class="checklist">
+          <li><a href="../services/packing-services.html">Packing Services</a></li>
+          <li><a href="../services/storage.html">Storage</a></li>
+          <li><a href="../services/man-and-van.html">Man & Van</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Oldbury FAQs</span>
+      <h2>Moving in Oldbury? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How much does a move cost in Oldbury?</summary>
+        <div class="faq-body"><p>Local moves typically range from £260 for a flat to around £1,100 for a large family home. Your free fixed quote is confirmed in writing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you cover Langley and Brandhall?</summary>
+        <div class="faq-body"><p>Yes — the B69 postcode, including Langley, Warley and Titford, is one of our most regular routes.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move me from a terraced house?</summary>
+        <div class="faq-body"><p>Yes — we're experienced with terraces where parking and access are tight, and we plan it before we arrive.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you move between Oldbury and Birmingham?</summary>
+        <div class="faq-body"><p>Yes — the A41 and M5 make it a quick, common route. We'll quote a fixed door-to-door price.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you store belongings?</summary>
+        <div class="faq-body"><p>Yes — see <a href="../services/storage.html">storage</a> for secure, flexible terms with collection and delivery.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>Oldbury & Neighbouring Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=Oldbury%2C%20UK&t=&z=13&ie=UTF8&iwloc=&output=embed" title="Map of Oldbury served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-west-bromwich.html">West Bromwich</a>
+      <a href="removals-smethwick.html">Smethwick</a>
+      <a href="removals-halesowen.html">Halesowen</a>
+      <a href="removals-birmingham.html">Birmingham</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in Oldbury?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

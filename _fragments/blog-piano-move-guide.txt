@@ -1,0 +1,90 @@
+@path blog/piano-move-guide.html
+@title Moving a Piano: The Complete Guide | Albert Miles Blog
+@desc How to move a piano safely. Uprights vs grands, cost factors, and why you should never move a piano yourself.
+@canonical https://www.albertmilesremovals.co.uk/blog/piano-move-guide.html
+@active blog/index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Moving a Piano: The Complete Guide",
+  "author": { "@type": "Organization", "name": "Albert Miles Removals" },
+  "publisher": { "@type": "Organization", "name": "Albert Miles Removals" }
+}
+@body
+<!-- ============ ARTICLE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Professional piano removals team" loading="eager">
+  </div>
+  <div class="container">
+    <div class="post-meta"><span>Guides</span><span>6 min read</span></div>
+    <h1>Moving a Piano: The Complete Guide</h1>
+    <p class="lead">Pianos are heavy, fragile and valuable — here's how the pros keep them in tune and in one piece.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Blog</a></li>
+        <li aria-current="page">Piano Move Guide</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ ARTICLE BODY ============ -->
+<section class="section">
+  <div class="container article">
+    <div class="prose">
+      <h2>Why Pianos Are Different</h2>
+      <p>A piano is one of the few household items that is simultaneously <strong>very heavy</strong> and <strong>very delicate</strong>. An upright can weigh 200–400kg; a baby grand up to 400kg. Yet the interior is built to thousandths of a millimetre, and a knock can knock it out of tune — or out of action.</p>
+      <p>That combination is why professional piano movers exist, and why the <a href="../services/piano-removals.html">piano removal</a> service is a specialism rather than an add-on.</p>
+
+      <h2>Upright vs Grand: The Difference</h2>
+      <h3>Uprights</h3>
+      <p>Moved upright on a purpose-built trolley, they travel best standing. The heavy part is the keyboard end — the case may be thin wood, so it's protected and handled, never pushed.</p>
+      <h3>Grands</h3>
+      <p>Grands are moved differently: legs and lyre are removed, the instrument is tilted carefully onto its side on an insulated board, and the lid stays protected throughout. A three-person crew minimum.</p>
+
+      <h2>What Affects the Cost</h2>
+      <ul>
+        <li><strong>Type and size</strong> — a concert grand is a different project from an upright.</li>
+        <li><strong>Stairs and access</strong> — lifts, corridors and corner turns decide the technique.</li>
+        <li><strong>Distance</strong> — local moves are cheaper than long-distance journeys.</li>
+        <li><strong>Insurance</strong> — always confirm the piano is covered for the full value.</li>
+      </ul>
+
+      <h2>Why Not to DIY</h2>
+      <p>Hiring a van and three friends sounds cheaper until you consider that piano repair is expensive, tuning costs money, and an injured back costs more than any removal quote. Straps, trolleys, ramps and experience are what prevent both breakage and injury.</p>
+
+      <h2>Prepare the Piano</h2>
+      <ul>
+        <li>Lock the lid and keybed.</li>
+        <li>Wrap the legs and lyre (for grands) in protective blankets.</li>
+        <li>Clear a path — the crew shouldn't have to move your boxes to reach it.</li>
+        <li>Tell the crew about stairs, tight corners and the exact route in advance.</li>
+      </ul>
+
+      <h2>After the Move</h2>
+      <p>A piano should be tuned <strong>a few weeks after</strong> moving, once it has acclimatised to its new room — avoid placing it against an external wall or near a radiator.</p>
+
+      <h2>Book a Specialist</h2>
+      <p>Our <a href="../services/piano-removals.html">piano removal crew</a> handles uprights and grands across the West Midlands and beyond. <a href="../quote.html">Get a fixed quote</a> or call <a href="tel:+441216792511">0121 679 2511</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving a Piano?</h2>
+        <p>Specialist crew, proper equipment, fixed price.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

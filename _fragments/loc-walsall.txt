@@ -1,0 +1,191 @@
+@path locations/removals-walsall.html
+@title Removals in Walsall | Local Movers | Albert Miles
+@desc House & office removals in Walsall covering all WS postcodes. Local experts in Aldridge, Bloxwich, Streetly & more. Fixed prices, £10m cover. Free quotes.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-walsall.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals Walsall",
+  "telephone": "+441216792511",
+  "areaServed": "Walsall, West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removals team moving a Walsall home" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in Walsall</h1>
+    <p>From the town centre to Aldridge, Bloxwich and the edges of Streetly, we move Walsall homes and businesses with a local crew that knows the roads.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">Walsall</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Walsall Moves With Local Know-How</h2>
+      <p>Walsall offers some of the best-value family housing in the West Midlands, and it's a borough people rarely leave. When they do move, it's often within the town or between Aldridge, Bloxwich and Pelsall — moves our crews make every single week.</p>
+      <p>We cover the whole of the WS postcode area: the town centre (WS1), Bloxwich and Mossley (WS3), Pelsall (WS3), Aldridge and Streetly (WS9), Brownhills (WS8) and the villages around the A452. For businesses, we relocate offices and shops across Walsall's industrial and retail estates.</p>
+      <p>Being 25 minutes up the M6 from base means your quote reflects local pricing — not a "distance charge" from a national firm. And on moving day, our crews already know the one-way system around the Saddlers Centre, the parking on Birmingham Road and the school-run timing through Aldridge.</p>
+
+      <h2>Areas We Cover</h2>
+      <div class="loc-chips">
+        <a href="#walsall">Town Centre (WS1)</a>
+        <a href="#walsall">Bloxwich (WS3)</a>
+        <a href="#walsall">Mossley (WS3)</a>
+        <a href="#walsall">Pelsall (WS3)</a>
+        <a href="#walsall">Brownhills (WS8)</a>
+        <a href="#walsall">Aldridge (WS9)</a>
+        <a href="#walsall">Streetly (WS9)</a>
+        <a href="#walsall">Willenhall (WS12)</a>
+        <a href="#walsall">Rushall (WS4)</a>
+        <a href="#walsall">Pheasey (WS5)</a>
+      </div>
+
+      <h2>Popular Moves in Walsall</h2>
+      <div class="info-box">
+        <h3>Family homes in Aldridge & Streetly</h3>
+        <p>Some of the borough's most sought-after family housing sits in WS9. These are full-house moves — we bring furniture dismantling, packing and reassembly as standard.</p>
+      </div>
+      <div class="info-box">
+        <h3>Terrace & semi moves in town</h3>
+        <p>Traditional terraces around the town centre and Bloxwich need careful handling with limited parking. Our local crews plan the approach before they arrive.</p>
+      </div>
+      <div class="info-box">
+        <h3>Office & industrial relocation</h3>
+        <p>Walsall's business parks and industrial estates see frequent relocations — see our <a href="../services/commercial-relocation.html">commercial relocation</a> service for business moves.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>M6 Junctions 9 and 10, the A454 and the Black Country spine road — we know the best routes for every Walsall move, avoiding school runs and event traffic at the Bescot Stadium.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get a Walsall Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>1-bed flat</td><td>£270–£460</td></tr>
+            <tr><td>3-bed house</td><td>£420–£760</td></tr>
+            <tr><td>4-bed house</td><td>£650–£1,150</td></tr>
+            <tr><td>Man & van</td><td>From £80</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Nearby Services</h3>
+        <ul class="checklist">
+          <li><a href="../services/packing-services.html">Packing Services</a></li>
+          <li><a href="../services/storage.html">Storage</a></li>
+          <li><a href="../services/furniture-dismantling.html">Furniture Dismantling</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Walsall FAQs</span>
+      <h2>Moving in Walsall? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How much does a move cost in Walsall?</summary>
+        <div class="faq-body"><p>Local moves typically range from £270 for a flat to around £1,150 for a large family home in places like Aldridge. Your fixed quote is confirmed in writing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you cover Aldridge and Streetly?</summary>
+        <div class="faq-body"><p>Yes — WS9 is one of our busiest areas for family house moves, along with Bloxwich, Brownhills and Pelsall.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you store our belongings during a Walsall move?</summary>
+        <div class="faq-body"><p>Yes — our <a href="../services/storage.html">storage service</a> is ideal when chain delays or renovation dates mean your completion doesn't line up.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you move offices and shops in Walsall?</summary>
+        <div class="faq-body"><p>Yes — from town-centre offices to industrial units, we relocate Walsall businesses with minimal downtime.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you help with furniture disposal?</summary>
+        <div class="faq-body"><p>Yes, we can dismantle and remove unwanted furniture, recycling or donating it where possible.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ REVIEWS ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Customer Reviews</span>
+      <h2>What Walsall Customers Say</h2>
+    </div>
+    <div class="grid grid-2">
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Used their storage for three months between sale and completion in Bloxwich. Safe, dry and delivered on the day. Superb.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">JT</div><div><strong>James T.</strong><span>Bloxwich</span></div></div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Moved our dental practice to new premises in Walsall over a weekend. Zero downtime, no damage. Exceptional.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">PN</div><div><strong>Priya N.</strong><span>Walsall town centre</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>Walsall & Neighbouring Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=Walsall%2C%20UK&t=&z=11&ie=UTF8&iwloc=&output=embed" title="Map of Walsall served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-west-bromwich.html">West Bromwich</a>
+      <a href="removals-birmingham.html">Birmingham</a>
+      <a href="removals-tamworth.html">Tamworth</a>
+      <a href="removals-cannock.html">Cannock</a>
+      <a href="removals-lichfield.html">Lichfield</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in Walsall?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

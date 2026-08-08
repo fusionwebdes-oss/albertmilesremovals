@@ -1,0 +1,173 @@
+@path services/commercial-relocation.html
+@title Commercial Relocation West Midlands | Business Moving | Albert Miles
+@desc Complete commercial relocation across the West Midlands. Offices, shops, surgeries, warehouses & more. Site surveys, fixed quotes, minimal downtime. Free consultation.
+@canonical https://www.albertmilesremovals.co.uk/services/commercial-relocation.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Commercial Relocation in the West Midlands",
+  "serviceType": "Commercial Relocation",
+  "provider": { "@type": "LocalBusiness", "name": "Albert Miles Removals", "telephone": "+441216792511" },
+  "areaServed": "West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Commercial relocation team moving office equipment" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Commercial Relocation Services</h1>
+    <p>End-to-end business moving — from the first site visit to the last screen reconnected at your new premises.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li>Services</li>
+        <li aria-current="page">Commercial Relocation</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Moving a Business Is a Project, Not a Job</h2>
+      <p>A commercial move involves more than vans and boxes. It's IT, compliance, staff, clients, furniture, equipment and deadlines — often all while you keep the business running. Our commercial relocation service treats it as a project, managed properly from start to finish.</p>
+      <p>We start with a detailed site survey of both your current and new premises. We map every department, agree a move schedule around your trading hours, and assign a dedicated project coordinator who stays in constant contact. On the day, our crews work to a written plan with numbered and labelled loads, so everything lands in the right room, in the right order.</p>
+      <p>From a 4-desk studio to a multi-floor head office, from a medical practice to a warehouse, we've relocated businesses of every size across the West Midlands — and we can handle everything from specialist equipment to confidential records.</p>
+
+      <h2>What's Included</h2>
+      <ul class="checklist">
+        <li>Free on-site survey & move plan</li>
+        <li>Dedicated project coordinator</li>
+        <li>Evening, night & weekend moves</li>
+        <li>Numbered loads & room plans</li>
+        <li>IT equipment handling</li>
+        <li>Secure document relocation</li>
+        <li>Furniture & shelving relocation</li>
+        <li>Reassembly & positioning</li>
+        <li>Optional storage during transition</li>
+      </ul>
+
+      <h2>Businesses We Relocate</h2>
+      <div class="grid grid-2">
+        <div class="info-box"><h3>Offices & agencies</h3><p>Desks, screens, servers and filing moved with zero disruption to your clients.</p></div>
+        <div class="info-box"><h3>Medical & care</h3><p>Surgeries, clinics and care homes — compliant handling, out-of-hours scheduling.</p></div>
+        <div class="info-box"><h3>Retail & hospitality</h3><p>Shops, salons, cafés and restaurants moved fast so you can reopen quickly.</p></div>
+        <div class="info-box"><h3>Industrial & logistics</h3><p>Warehouse racking, machinery and stock relocated with the right equipment.</p></div>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>How We Quote Commercial Moves</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <p>Every commercial move is priced after a free site survey, because an accurate quote needs real numbers — desks, floors, equipment, access.</p>
+          <table>
+            <tr><th>Team size</th><th>Typical price</th></tr>
+            <tr><td>Up to 5 desks</td><td>£350–£700</td></tr>
+            <tr><td>5–15 desks</td><td>£650–£1,500</td></tr>
+            <tr><td>15–30 desks</td><td>£1,200–£2,800</td></tr>
+            <tr><td>30+ desks / multi-floor</td><td>From £2,500</td></tr>
+          </table>
+        </div>
+        <p style="font-size:0.82rem;color:var(--text-muted);margin-top:0.6rem;">Weekend moves, IT reconnection and packing can be included in one fixed price.</p>
+        <a class="btn btn-red btn-block" href="../contact.html">Book a Free Survey</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Why Businesses Choose Us</h3>
+        <ul class="checklist">
+          <li>Zero downtime on our last 50 moves</li>
+          <li>One point of contact throughout</li>
+          <li>Fully insured & DBS-checked crews</li>
+          <li>Written move plan & risk assessment</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PROCESS ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">The Process</span>
+      <h2>From Survey to Sorted</h2>
+    </div>
+    <div class="grid grid-4">
+      <div class="card step" style="flex-direction:column;">
+        <div class="step-num" aria-hidden="true"></div>
+        <h3>Survey & Plan</h3>
+        <p>We visit both sites, map everything and write your move plan with a fixed price.</p>
+      </div>
+      <div class="card step" style="flex-direction:column;">
+        <div class="step-num" aria-hidden="true"></div>
+        <h3>Label & Coordinate</h3>
+        <p>Desks, boxes and rooms are numbered and mapped so nothing is misplaced.</p>
+      </div>
+      <div class="card step" style="flex-direction:column;">
+        <div class="step-num" aria-hidden="true"></div>
+        <h3>Execute Outside Hours</h3>
+        <p>Crews work evenings or weekends, following the plan room by room.</p>
+      </div>
+      <div class="card step" style="flex-direction:column;">
+        <div class="step-num" aria-hidden="true"></div>
+        <h3>Handover</h3>
+        <p>Furniture rebuilt, equipment in place and a final walkthrough with your team.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Commercial FAQs</span>
+      <h2>Questions About Commercial Relocation</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How far in advance should we book?</summary>
+        <div class="faq-body"><p>6–8 weeks is ideal for larger relocations, but we've planned complete moves in under two weeks. The sooner we survey, the smoother the project.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you work nights or weekends?</summary>
+        <div class="faq-body"><p>Yes — the majority of our commercial moves happen outside trading hours so your business never stops.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Who handles IT and phones?</summary>
+        <div class="faq-body"><p>We move and protect the equipment. If you use an IT provider, we coordinate with them to disconnect and reconnect systems seamlessly.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you provide packing for office contents?</summary>
+        <div class="faq-body"><p>Yes — desk contents, files and personal items can all be packed by our team using secure, labelled boxes. See <a href="packing-services.html">packing services</a>.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Is our equipment insured?</summary>
+        <div class="faq-body"><p>Yes — up to £10m goods-in-transit cover, with additional cover available for high-value items and equipment.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Plan Your Business Move</h2>
+        <p>Book a free site survey and get a fixed quote with a written move plan.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../contact.html">Book Free Survey</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,112 @@
+@path blog/moving-house-checklist.html
+@title Moving House Checklist (8 Weeks to Move Day) | Albert Miles Blog
+@desc A week-by-week moving house checklist. Book, pack, notify and prepare with confidence for a stress-free house move.
+@canonical https://www.albertmilesremovals.co.uk/blog/moving-house-checklist.html
+@active blog/index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Moving House Checklist: 8 Weeks to Move Day",
+  "author": { "@type": "Organization", "name": "Albert Miles Removals" },
+  "publisher": { "@type": "Organization", "name": "Albert Miles Removals" }
+}
+@body
+<!-- ============ ARTICLE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles-5.webp" alt="Moving house checklist on a clipboard" loading="eager">
+  </div>
+  <div class="container">
+    <div class="post-meta"><span>Checklists</span><span>8 min read</span></div>
+    <h1>Moving House Checklist: 8 Weeks to Move Day</h1>
+    <p class="lead">Break a big move into small, doable weeks and nothing gets forgotten.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Blog</a></li>
+        <li aria-current="page">Moving Checklist</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ ARTICLE BODY ============ -->
+<section class="section">
+  <div class="container article">
+    <div class="prose">
+      <h2>8 Weeks Out</h2>
+      <ul>
+        <li>Book your <a href="../services/house-removals.html">removal team</a> early — popular dates go fast.</li>
+        <li>Get three quotes, compare like-for-like, and check insurance cover.</li>
+        <li>Start decluttering room by room. Sell, donate or bin — don't pay to move it.</li>
+      </ul>
+
+      <h2>6 Weeks Out</h2>
+      <ul>
+        <li>Book a skip or bulky waste collection for the big stuff you're not taking.</li>
+        <li>Request valuation/redirection for any specialist items like pianos — see our <a href="piano-move-guide.html">piano guide</a>.</li>
+        <li>Arrange schools, nurseries and dentist/GP transfer letters.</li>
+        <li>Order packing materials (or book our <a href="../services/packing-services.html">packing service</a>).</li>
+      </ul>
+
+      <h2>4 Weeks Out</h2>
+      <ul>
+        <li>Book a moving-in date with your new utility suppliers (gas, electric, water, broadband).</li>
+        <li>Notify the council for council tax at both properties.</li>
+        <li>Start packing the rooms you use least — loft, garage, spare rooms.</li>
+        <li>Update your address with banks, cards, insurers and subscriptions.</li>
+      </ul>
+
+      <h2>2 Weeks Out</h2>
+      <ul>
+        <li>Book the van, confirm the crew arrival time and finalise your inventory.</li>
+        <li>Arrange parking permits or temporary road suspension if you need them.</li>
+        <li>Take final meter readings at your old property.</li>
+        <li>Pack your "essentials box" — kettle, mugs, toiletries, phone chargers, keys.</li>
+      </ul>
+
+      <h2>1 Week Out</h2>
+      <ul>
+        <li>Defrost the freezer and empty the fridge.</li>
+        <li>Finish dismantling anything you're handling yourself (or book <a href="../services/furniture-dismantling.html">dismantling</a>).</li>
+        <li>Separate what must NOT be packed — valuables, paperwork, medicine.</li>
+        <li>Confirm keys/access arrangements with both agents or sellers.</li>
+      </ul>
+
+      <h2>Move Day</h2>
+      <ul>
+        <li>Label every box by room before the crew arrives.</li>
+        <li>Be present to walk the team through heavy or fragile items.</li>
+        <li>Keep the essentials box with you, in the car.</li>
+        <li>Lock up, then check you have all keys before you leave.</li>
+      </ul>
+
+      <h2>After the Move</h2>
+      <ul>
+        <li>Read both meters and photograph the readings.</li>
+        <li>Redirect your post with the Royal Mail redirect service.</li>
+        <li>Register at your new GP and update vehicle/V5C documents.</li>
+        <li>Change locks if you're moving into a previously-owned home.</li>
+      </ul>
+
+      <p>Follow this and move day becomes surprisingly calm. If you'd rather have professionals handle the heavy lifting, <a href="../quote.html">request a fixed quote</a> — or call <a href="tel:+441216792511">0121 679 2511</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>8 Weeks and Counting?</h2>
+        <p>Lock in your moving date with a free fixed-price quote.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

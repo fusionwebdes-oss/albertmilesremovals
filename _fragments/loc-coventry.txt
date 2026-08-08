@@ -1,0 +1,192 @@
+@path locations/removals-coventry.html
+@title Removals in Coventry | Local Movers | Albert Miles
+@desc House & office removals in Coventry covering all CV postcodes. Local experts in Earlsdon, Coundon, Canley & more. Fixed prices, £10m cover. Free quotes today.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-coventry.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals Coventry",
+  "telephone": "+441216792511",
+  "areaServed": "Coventry, West Midlands"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removals team in Coventry" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in Coventry</h1>
+    <p>The motor city deserves a well-oiled move. We cover every CV postcode with crews that know Coventry's streets, estates and students.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">Coventry</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Coventry Moves, from Students to Families</h2>
+      <p>Coventry's housing stock spans everything from post-war city-centre homes to family estates in Walsgrave, Binley and Cheylesmore — plus one of the biggest student populations in the region. We move them all.</p>
+      <p>We cover the CV postcodes: the city centre (CV1), Earlsdon (CV5), Canley and Tile Hill (CV4), Coundon (CV6), Walsgrave (CV2), Binley (CV2), Cheylesmore (CV3), Stoke and Wyken, and out toward the Warwickshire villages where many families relocate. Warwick University students in Canley are among our most loyal customers.</p>
+      <p>With the M6 and M69 on hand and the city centre's ring road mastered, our crews move in and out of Coventry fast — and the pricing reflects our local base rather than a national firm's distance charges.</p>
+
+      <h2>Areas We Cover</h2>
+      <div class="loc-chips">
+        <a href="#coventry">City Centre (CV1)</a>
+        <a href="#coventry">Walsgrave (CV2)</a>
+        <a href="#coventry">Binley (CV2)</a>
+        <a href="#coventry">Cheylesmore (CV3)</a>
+        <a href="#coventry">Earlsdon (CV5)</a>
+        <a href="#coventry">Coundon (CV6)</a>
+        <a href="#coventry">Canley (CV4)</a>
+        <a href="#coventry">Tile Hill (CV4)</a>
+        <a href="#coventry">Wyken (CV2)</a>
+        <a href="#coventry">Stoke (CV2)</a>
+      </div>
+
+      <h2>Popular Moves in Coventry</h2>
+      <div class="info-box">
+        <h3>Student moves (CV4, CV5)</h3>
+        <p>Canley and Earlsdon are student heartlands. We move students in, out and between shared houses every term — see <a href="../services/student-moves.html">student moves</a>.</p>
+      </div>
+      <div class="info-box">
+        <h3>Family homes</h3>
+        <p>From modern estates in Walsgrave to period homes in Earlsdon and Cheylesmore, family moves come with full packing and furniture handling.</p>
+      </div>
+      <div class="info-box">
+        <h3>Village relocations</h3>
+        <p>Many families move from Coventry out to Kenilworth, Stoneleigh and the Warwickshire villages. We do those moves regularly — including long-distance options.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>The Coventry ring road, M6 J2 and M69 are part of our daily routes. We know the student areas' parking reality and the quietest days to move in the city.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get a Coventry Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>1-bed flat</td><td>£280–£480</td></tr>
+            <tr><td>3-bed house</td><td>£450–£800</td></tr>
+            <tr><td>4-bed house</td><td>£700–£1,250</td></tr>
+            <tr><td>Student move</td><td>From £70</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Nearby Services</h3>
+        <ul class="checklist">
+          <li><a href="../services/student-moves.html">Student Moves</a></li>
+          <li><a href="../services/packing-services.html">Packing Services</a></li>
+          <li><a href="../services/storage.html">Storage</a></li>
+          <li><a href="../services/long-distance-removals.html">Long Distance</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Coventry FAQs</span>
+      <h2>Moving in Coventry? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How much does a move cost in Coventry?</summary>
+        <div class="faq-body"><p>Local moves typically range from £280 for a flat to around £1,250 for a large family house. Your free fixed quote is confirmed in writing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you move students at Coventry and Warwick universities?</summary>
+        <div class="faq-body"><p>Yes — Canley, Earlsdon and the student halls are among our busiest areas. See <a href="../services/student-moves.html">student moves</a> for budget-friendly pricing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move us to Warwickshire villages?</summary>
+        <div class="faq-body"><p>Yes — Kenilworth, Stoneleigh, Baginton and surrounding villages are regular destinations. We'll quote the full door-to-door price.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you handle office moves in Coventry?</summary>
+        <div class="faq-body"><p>Yes — city-centre offices and business parks across the CV postcodes. See <a href="../services/office-removals.html">office removals</a>.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you store our things between moves?</summary>
+        <div class="faq-body"><p>Yes — our <a href="../services/storage.html">storage service</a> covers chain gaps and renovation delays with collection and delivery included.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ REVIEWS ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Customer Reviews</span>
+      <h2>What Coventry Customers Say</h2>
+    </div>
+    <div class="grid grid-2">
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Their packing team wrapped our entire kitchen in under a day, then moved us from Coventry to Nuneaton without a hitch.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">SA</div><div><strong>Sam A.</strong><span>Coventry to Nuneaton</span></div></div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Student move from Canley back home for summer. Collected, stored and delivered in September. Couldn't have been easier.”</blockquote>
+        <div class="author"><div class="avatar" aria-hidden="true">NO</div><div><strong>Nina O.</strong><span>Canley student</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>Coventry & Neighbouring Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=Coventry%2C%20UK&t=&z=11&ie=UTF8&iwloc=&output=embed" title="Map of Coventry served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-nuneaton.html">Nuneaton</a>
+      <a href="removals-rugby.html">Rugby</a>
+      <a href="removals-solihull.html">Solihull</a>
+      <a href="removals-birmingham.html">Birmingham</a>
+      <a href="removals-tamworth.html">Tamworth</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in Coventry?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

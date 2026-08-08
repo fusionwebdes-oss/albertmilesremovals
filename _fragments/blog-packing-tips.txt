@@ -1,0 +1,80 @@
+@path blog/packing-tips.html
+@title 18 Packing Tips From Professional Movers | Albert Miles Blog
+@desc Professional packing tips that protect your belongings and save hours on move day. Box weight, labelling, wardrobes and more.
+@canonical https://www.albertmilesremovals.co.uk/blog/packing-tips.html
+@active blog/index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "18 Packing Tips From Professional Movers",
+  "author": { "@type": "Organization", "name": "Albert Miles Removals" },
+  "publisher": { "@type": "Organization", "name": "Albert Miles Removals" }
+}
+@body
+<!-- ============ ARTICLE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Packing-Services.webp" alt="Professional packing materials and boxes" loading="eager">
+  </div>
+  <div class="container">
+    <div class="post-meta"><span>Tips</span><span>5 min read</span></div>
+    <h1>18 Packing Tips From Professional Movers</h1>
+    <p class="lead">The small habits our crews see working — and the mistakes they rescue people from.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Blog</a></li>
+        <li aria-current="page">Packing Tips</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ ARTICLE BODY ============ -->
+<section class="section">
+  <div class="container article">
+    <div class="prose">
+      <h2>The 18 Tips</h2>
+      <ol>
+        <li><strong>Never pack a heavy item in a big box.</strong> Books and plates go in small boxes — big ones are for light, bulky things like bedding.</li>
+        <li><strong>Keep boxes under 20kg.</strong> That's the safe carrying weight for a mover. Heavy boxes slow everyone down and get damaged.</li>
+        <li><strong>Tape the bottom of every box</strong> with a "H" of tape — two strips across and one along. Dozens of boxes fail at the bottom fold.</li>
+        <li><strong>Use wadding and paper, not just bubble wrap.</strong> Newspaper ink transfers; acid-free paper protects china and glass better.</li>
+        <li><strong>Plates travel on edge</strong>, like records — not flat. Stack them upright, separated by paper.</li>
+        <li><strong>Fill every gap.</strong> A box that moves inside a box is how things break. Use tea towels and clothes as free void-fillers.</li>
+        <li><strong>Label by room, not by list.</strong> "Kitchen — one of three" tells the crew exactly where to put it.</li>
+        <li><strong>Label the side, not the top.</strong> Boxes are carried from the sides — labels on top get covered by the box above.</li>
+        <li><strong>Keep an essentials box for each overnight.</strong> Kettle, mugs, teabags, loo roll, chargers, meds, a change of clothes.</li>
+        <li><strong>Pack the bed last and unpack it first.</strong> You'll thank yourself at 10pm.</li>
+        <li><strong>Use wardrobe boxes for hanging clothes.</strong> It saves the ironing marathon after a big move.</li>
+        <li><strong>Take drawers out for a heavy chest</strong> — or remove the contents and tape the drawers shut. The piece becomes half the weight.</li>
+        <li><strong>Wrap mirrors and artwork in blankets</strong> face-out and tape the corners — never the glass surface.</li>
+        <li><strong>Put screws and fittings in a labelled bag</strong> taped to the item they came from. No mystery hardware at the new house.</li>
+        <li><strong>Photograph electronics wiring</strong> before unplugging. Reassembling the TV cabinet becomes a five-minute job.</li>
+        <li><strong>Pack a small "open first" box</strong> with tools, light bulbs, and the kettle — for the new address.</li>
+        <li><strong>Don't pack the kettle for the last morning</strong> — it's the single most-repacked item in the country.</li>
+        <li><strong>Consider professional packing.</strong> It costs less than you think and takes the whole job off your plate — see our <a href="../services/packing-services.html">packing service</a>.</li>
+      </ol>
+
+      <h2>Want Us to Handle It?</h2>
+      <p>Our crews can pack your whole home in a day — or just the fragile rooms. <a href="../quote.html">Request a quote</a> or call <a href="tel:+441216792511">0121 679 2511</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Let Us Do the Packing</h2>
+        <p>Full or part packing, all included in a fixed price.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

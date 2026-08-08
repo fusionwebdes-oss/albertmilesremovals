@@ -1,0 +1,146 @@
+@path faqs.html
+@title FAQs | Removal Questions Answered by Albert Miles
+@desc Answers to the most common removal questions: costs, booking, insurance, packing, storage and more. Get honest advice from Albert Miles Removals, West Midlands.
+@canonical https://www.albertmilesremovals.co.uk/faqs.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a house removal cost in the West Midlands?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Most local house removals cost between £350 and £1,200 depending on home size, distance and time of year. Albert Miles offers free fixed-price quotes with no hidden extras." }
+    },
+    {
+      "@type": "Question",
+      "name": "How far in advance should I book a removal company?",
+      "acceptedAnswer": { "@type": "Answer", "text": "We recommend booking 2-4 weeks ahead, especially for weekends and month ends. We can often accommodate urgent moves at short notice — just call us." }
+    },
+    {
+      "@type": "Question",
+      "name": "Are Albert Miles Removals insured?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Yes. We carry up to £10 million goods-in-transit insurance plus public liability cover as standard on every move." }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you supply boxes and packing materials?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Yes, we supply boxes, tape, bubble wrap and protective blankets, and our team can pack your entire home if you prefer." }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer storage?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Yes. We provide secure, monitored, dry storage units on flexible terms across the West Midlands." }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you move a piano?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Yes. We specialise in piano removals using proper piano trolleys, straps and experienced handlers." }
+    }
+  ]
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="Images/Packing-Services.webp" alt="Boxes and packing materials for a house move" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Frequently Asked Questions</h1>
+    <p>Honest answers to the questions we're asked most — so you can plan your move with confidence.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="index.html">Home</a></li>
+        <li aria-current="page">FAQs</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section">
+  <div class="container split">
+    <div>
+      <div class="section-head left">
+        <span class="kicker">General Questions</span>
+        <h2>Booking & Planning</h2>
+      </div>
+      <details class="faq-item" open>
+        <summary>How much does a removal cost?</summary>
+        <div class="faq-body"><p>Most West Midlands house removals fall between £350 and £1,200. The final price depends on the size of your property, how much furniture you have, the distance and the date. We give a free, fixed quote — no call-out fee, no obligation.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>How do I get a quote?</summary>
+        <div class="faq-body"><p>Call us on 0121 679 2511 or complete the quick form on our <a href="quote.html">quote page</a>. We'll ask about your property, postcode and a rough idea of your belongings, then confirm a fixed price — usually the same day.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>How far in advance should I book?</summary>
+        <div class="faq-body"><p>Ideally 2–4 weeks, especially for weekends and month-end dates, which fill up fast. For urgent moves, call us anyway — we regularly fit in small moves with only a few days' notice.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you work weekends and evenings?</summary>
+        <div class="faq-body"><p>Yes. We're open Saturday 8am–4pm and can arrange evening moves for office relocations or tight completions. Weekend slots are popular, so book early.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Which areas do you cover?</summary>
+        <div class="faq-body"><p>We're based in Birmingham and cover the whole West Midlands — including <a href="locations/removals-wolverhampton.html">Wolverhampton</a>, <a href="locations/removals-walsall.html">Walsall</a>, <a href="locations/removals-dudley.html">Dudley</a>, <a href="locations/removals-solihull.html">Solihull</a>, <a href="locations/removals-coventry.html">Coventry</a> and 20 more towns and cities. We also handle <a href="services/long-distance-removals.html">long-distance moves</a> anywhere in the UK.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>How much notice do I need for a man and van?</summary>
+        <div class="faq-body"><p>Usually 2–7 days is plenty for a man-and-van job, but we've booked same-day moves when availability allows. Give us a call and we'll do our best.</p></div>
+      </details>
+    </div>
+
+    <div>
+      <div class="section-head left">
+        <span class="kicker">On the Day</span>
+        <h2>Insurance, Packing & Safety</h2>
+      </div>
+      <details class="faq-item" open>
+        <summary>Are you insured?</summary>
+        <div class="faq-body"><p>Yes. We carry up to £10m goods-in-transit insurance and public liability cover as standard. We also work to BAR (British Association of Removers) good practice guidelines.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you provide packing materials?</summary>
+        <div class="faq-body"><p>Yes. Boxes, tape, bubble wrap, tissue paper, wardrobe boxes and heavy-duty blankets are all available. See our <a href="services/packing-services.html">packing services</a> page for options.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you pack fragile items?</summary>
+        <div class="faq-body"><p>Yes. Our team is trained to wrap and pack glassware, china, electronics and artwork using the right materials and plenty of padding.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Will you dismantle and reassemble furniture?</summary>
+        <div class="faq-body"><p>Absolutely — beds, wardrobes, sofas and flat-pack items are dismantled safely, moved and rebuilt at your new home. See <a href="services/furniture-dismantling.html">furniture dismantling</a>.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move a piano or large items?</summary>
+        <div class="faq-body"><p>Yes, we specialise in <a href="services/piano-removals.html">piano removals</a> and awkward items. Tell us what you're moving and we'll bring the right equipment.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>What should I do with my plants and fridge?</summary>
+        <div class="faq-body"><p>Defrost the fridge 24 hours before the move. Plants need a little water and careful positioning — we'll place them so they travel safely.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you offer storage if my dates change?</summary>
+        <div class="faq-body"><p>Yes. If there's a gap between leaving your old home and moving into the new one, our secure <a href="services/storage.html">storage units</a> can bridge it.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Still Got a Question?</h2>
+        <p>Call, email or send us a message — a real person will answer, usually within the hour.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="contact.html">Contact Us</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

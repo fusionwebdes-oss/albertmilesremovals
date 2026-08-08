@@ -1,0 +1,676 @@
+@path reviews.html
+@title Reviews | Albert Miles Removals — Rated 4.9★ on Google
+@desc Real reviews for Albert Miles Removals from Google, Trustpilot and Checkatrade. Rated 4.9/5 by West Midlands families and businesses. Read what our customers say.
+@canonical https://www.albertmilesremovals.co.uk/reviews.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Albert Miles Removals",
+  "telephone": "+441216792511",
+  "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "180", "bestRating": "5" }
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removal team during a move" loading="eager">
+  </div>
+  <div class="container">
+    <h1>What Our Customers Say</h1>
+    <p>Rated 4.9 out of 5 on Google — here's what families and businesses across the West Midlands think of Albert Miles Removals.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="index.html">Home</a></li>
+        <li aria-current="page">Reviews</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ RATING SUMMARY ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Ratings</span>
+      <h2>Trusted Across the West Midlands</h2>
+      <div class="review-badges mt-2">
+        <div class="review-badge">
+          <span class="badge-score"><strong>4.9</strong><span>Google Reviews</span></span>
+          <span class="stars" aria-label="4.9 out of 5">★★★★★</span>
+        </div>
+        <div class="review-badge">
+          <span class="badge-score"><strong>4.8</strong><span>Trustpilot</span></span>
+          <span class="stars" aria-label="4.8 out of 5">★★★★★</span>
+        </div>
+        <div class="review-badge">
+          <span class="badge-score"><strong>Excellent</strong><span>Checkatrade</span></span>
+          <span class="stars" aria-label="Excellent">★★★★★</span>
+        </div>
+      </div>
+      <p class="mt-2" style="max-width:640px;margin-left:auto;margin-right:auto;">We don't buy reviews and we don't delete the occasional grumble. Here's an honest selection of what customers have said recently.</p>
+    </div>
+
+    <div class="grid grid-2">
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Used these gents on a number of times, always help me when it comes to my Facebook marketplace purchases, thanks again for the freezer pick up. Great work.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">DB</div>
+          <div><strong>Darren B.</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“I had the pleasure of using the removal service with Albert Miles, and let me tell you: 5 stars are not enough! These guys are on another level.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">NA</div>
+          <div><strong>Nimata C. Akakpo</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“We used Albert Miles to move us from Birmingham to Derby. I chose them because they had more flexibility than other companies: for example they charged packing per box which suited our situation better than a flat rate. They also use Lutons.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">HV</div>
+          <div><strong>Hannah Valenzuela</strong><span>Birmingham to Derby · Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Great price. These guys were great. Very punctual, friendly and quick. Do recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">TD</div>
+          <div><strong>Tai Doan</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Tomas came round to quote for our Great House Move of 2025. He was thorough, polite, helped us understand how it would work on the day, and we felt totally comfortable having him in our currently pretty chaotic house.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">DM</div>
+          <div><strong>David Moore</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Return customer, great service from start to finish, collection arranged at short notice. Seller also commented on how quick and professional they were. Sofa &amp; chair collected from second floor flat without a lift, delivered in perfect condition.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">AM</div>
+          <div><strong>Alex Millin</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Excellent moving company. Easy to organise over the phone. Excellent quote - very good value for money.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">MX</div>
+          <div><strong>Melvin Xavier</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“After yesterday's efforts I thought it only fair to give these lads a more detailed review. Firstly they're absolute class. Professional, respectful, committed, hardworking and a genuinely decent set of lads doing a great job.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">DA</div>
+          <div><strong>Dan</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“5 out of 5, punctual, efficient, and a great price point. Two minor issues on the move but management offered to remedy immediately after being made aware. Great experience would recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">JH</div>
+          <div><strong>Joseph Hyde</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“From obtaining a price through to the actual move, Albert Miles were great. They even came up with a solution so that we could beat the stamp duty increase and preserve our chain which massively helped a stressful situation.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">PM</div>
+          <div><strong>Patrick Mousley</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Absolutely blown away with the speed and service provided by AJ, Tomas and co. Arrived on time and worked like Trojans. Moved contents of a 4 bed house from the Black Country to the West Country in seven hours, and around £1k less than the quote.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">CP</div>
+          <div><strong>Carl Peet</strong><span>Black Country to West Country · Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Very nice and friendly guys that did our move today, very reasonable price and the guys worked extremely hard. Completed the house move faster than we thought was possible. Really happy with the work and the guys doing it!”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">MC</div>
+          <div><strong>Matt Carmichael</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Outstanding service they provided! As it was my first time using a moving service, I had loads of silly questions.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">AM</div>
+          <div><strong>Alice M.</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Excellent service from Darren's team and reasonably priced. We moved 12 miles away from Walmley to Lichfield and they managed to fit more into their van than we expected. They unloaded at the new house within the hour with no breakages.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">BR</div>
+          <div><strong>Ben Richards</strong><span>Walmley to Lichfield · Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Albert Miles Removals recently moved me over 200 miles from Cheshire to South Wales. The lads were absolutely fantastic! They were polite, professional and did not stop moving from the moment they arrived until the moment they left on both sides of the drive. Couldn't ask for better service, cannot recommend them highly enough.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">JS</div>
+          <div><strong>Jenni Steen</strong><span>Cheshire to South Wales · Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Albert Miles gave a brilliant service from start to finish. They fit us in with a short notice move, so helpful and so prompt I cannot fault their service.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">TR</div>
+          <div><strong>Trilly Roman</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Absolutely a fantastic service from Aivaras, Tadas &amp; Rolandas. They went above &amp; beyond with our move &amp; looked after us very well. We only have high praise for the 3 lads. Highly, highly recommended.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">BB</div>
+          <div><strong>Balraj Bihal</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“I would thoroughly recommend this team, great job over what turned out to be a very long day. They were on time at both ends of the move, very polite and quick workers. They even persevered and managed to get my oversized wardrobe into the…”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">CR</div>
+          <div><strong>Carole Rose</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“VERY GOOD! The two movers who completed our move from Bucks to Sussex were on time, friendly, polite, professional and took care with our belongings, some of which were not easy to move! Nothing was damaged during the move.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">BE</div>
+          <div><strong>BWS Erik</strong><span>Bucks to Sussex · Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Very amazing team… Tomas and Laurynas were so professional and very supportive. Made my move easy. Thank you.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">OA</div>
+          <div><strong>Olorunfemi Adebola</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Absolutely outstanding service from our two guys. They were so hard working, so careful with our things and handled loads of stairs with heavy furniture without fuss. They were charming, helpful and so considerate.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">PL</div>
+          <div><strong>Poccolo Lodato</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“If we were to move home again, we would pick Albert Miles every time. We couldn't have asked for a better experience. Sue who I spoke with on the phone booked us in at very short notice. She explained everything in detail and put us at…”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">RK</div>
+          <div><strong>Rav Kular</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“I highly recommend these guys so much, I spoke to Dale on the phone such a lovely guy and so helpful. On the moving day it went so smoothly and the moving guys were friendly, would 100% use again 10/10.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">AH</div>
+          <div><strong>Adam Hatton</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Absolutely outstanding service they provide. They will help out with anything you require on the day. The team are really friendly and polite. It really helps and makes your day run as smooth as possible taking most of the stress out of moving.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">AS</div>
+          <div><strong>Adam Stevenson</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Thanks to Albert Miles we were able to complete a complicated set of removals within a short time span. We received excellent advice and service. They were always reliable and offered great value for money. Thanks.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">NI</div>
+          <div><strong>Nicyshep</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Best quote I had and wow, guys worked so hard, everything was delivered the same as when it left. Bed and triple sliding wardrobe dismantled and put back up. I would highly recommend this company.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">AB</div>
+          <div><strong>Adrian Banks</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Would highly recommend Albert Miles, we moved from the midlands to north wales, easy to book, quick survey before hand, the guys came early morning to pack up the house and load the vans, very nice polite and helpful team, nothing was too much.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">PG</div>
+          <div><strong>Paula Gallagher</strong><span>Midlands to North Wales · Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Very hard working, followed requests, and happy to accommodate.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">LG</div>
+          <div><strong>Laura Graham</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Absolutely fantastic duo. Polite, helpful, worked non stop. Definitely recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">DH</div>
+          <div><strong>Debbie Humphreys</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“The whole team went totally above &amp; beyond, they were consistently polite, smiling and careful with our belongings. We can't thank you all enough!”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">CH</div>
+          <div><strong>Chloe Roberts</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“The service was amazing, with very helpful people. The job was done quickly and professionally. I would highly recommend this service. Thank you.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">MM</div>
+          <div><strong>Martyna Mroczkowska</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“I've used Albert Miles twice now and have been excellent on both occasions highly recommend them.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">MA</div>
+          <div><strong>Mujahid Ahmed</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Instilled confidence from the start by asking the right questions and listening to our concerns the driver quickly ascertained what was required. Thereafter, they just got on with it. The move went smoothly from start to finish.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">GS</div>
+          <div><strong>GoTranscript Support</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Fantastic service! The removal was completed in just one day, and the staff were extremely helpful throughout the process. Highly recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">AR</div>
+          <div><strong>Amandeep Rattu</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Used Albert Miles Removals earlier this year to do a 4 bed move in Balsall Common to a 3 bed in Llangollen. Our stuff was in storage with them for a couple of months in between. I can honestly say that there was absolutely nothing to fault.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">NT</div>
+          <div><strong>Not Telling</strong><span>Balsall Common to Llangollen · Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Lucas and his co worker were very efficient. Job done quickly. Would hire again. Great job.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">SJ</div>
+          <div><strong>Stephanie J-K</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Absolutely recommend this company. Customer service is 100%, price is so affordable! Definitely using them again when needed.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">JA</div>
+          <div><strong>Jasmin</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“They did a long distance move for me recently and it went so seamlessly. Professional, reliable, efficient, friendly. Thank you so much for such great service!”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">SO</div>
+          <div><strong>S Osman</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Such a fabulous team. Sorted my home move so quickly. Thank you very much guys. You are such an amazing team.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">GR</div>
+          <div><strong>Gauthamen R</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Fantastic removal company, moved from the West Midlands to the North East. The 2 men were on time and packed everything so fast.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">JM</div>
+          <div><strong>Jennifer Martin</strong><span>West Midlands to North East · Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Decent lads - price was decent also £600 for a removals from Birmingham to Oxford, I would definitely recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">LF</div>
+          <div><strong>Leo Fox</strong><span>Birmingham to Oxford · Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“They were absolutely lovely. Really professional, generous helpers and nothing was too much. Thank you for making the move run so smoothly.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">TK</div>
+          <div><strong>TJ Krutkevicius</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Great service. Friendly and helpful guys. Took shoes off to go upstairs as landlord had just put new carpet in the day before.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">MF</div>
+          <div><strong>Marion Ford</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Have used three times now in 7 years, wouldn't use anyone else! Will always recommend - all workers are efficient and respectful of me and my belongings.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">NK</div>
+          <div><strong>Nikki Kyriacou</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Saras &amp; Tomas - fantastic service, extremely helpful - well worth 5* would highly recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">HT</div>
+          <div><strong>Helene Tyler</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Brilliant service from start to finish!! From the minute I enquired to moving day I have received top service! Wonderful company highly recommended!!”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">SB</div>
+          <div><strong>Sammy Bromley</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Great service! I have used Albert's service for number of years, extremely reliable, excellent customer service.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">ST</div>
+          <div><strong>Stella Tse</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Darren was a great help with the move - a polite, friendly team who I would recommend!”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">SA</div>
+          <div><strong>Sam A</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Excellent removal company the guys did a fantastic job helping me move into my new home, very professional and good price.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">EN</div>
+          <div><strong>Eddy N.</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“The boys are incredible. Quick and efficient. Lucas was great.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">KI</div>
+          <div><strong>Kirsty</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Friendly, efficient, polite and professional service carried out by four nice guys. Very happy and confident to recommend this service to anyone else. Thanks x.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">SB</div>
+          <div><strong>Skaiste B.</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Great experience. Fast and professional. Highly recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">DO</div>
+          <div><strong>Demie</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“The guys were brilliant. Thank you. Money well spent and I'll recommend your company. Great job.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">JS</div>
+          <div><strong>John Smith</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Fabulous company nice friendly professional guys nothing is too much trouble and very reasonably priced.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">LB</div>
+          <div><strong>Lozza Bolshaw</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Excellent service. On time, really helpful and friendly. Would highly recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">MB</div>
+          <div><strong>Michelle Banahan</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Absolutely brilliant from start to finish, great communication, friendly and very efficient. Would definitely recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">JB</div>
+          <div><strong>Joanne B.</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Amazing removal company, would highly recommend!”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">AD</div>
+          <div><strong>Adrijus</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Excellent service from start to finish! Would highly recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">SH</div>
+          <div><strong>Sean H.B</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Absolutely amazing service, the removal men were so patient. I would highly recommend these guys.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">LP</div>
+          <div><strong>Laila Parbin</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Excellent service, on time and very careful with all our belongings.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">DT</div>
+          <div><strong>Daniel Turner</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Superb service from start to finish. Staff were so helpful couldn't ask for more.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">LS</div>
+          <div><strong>Liz Stott</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Fantastic service. Recommend highly.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">NS</div>
+          <div><strong>Nick Sheppard</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Great team highly recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">JJ</div>
+          <div><strong>Jacob J.</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Great customer care!”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">TR</div>
+          <div><strong>Tomas Rubezius</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Couldn't ask for a better service highly recommend.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">SP</div>
+          <div><strong>Spencer Aldridge</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Great clean, polite, and careful.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">AU</div>
+          <div><strong>Amperous University</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Very friendly and professional.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">KP</div>
+          <div><strong>Keeley Perks</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Excellent service.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">DY</div>
+          <div><strong>Desmond Young</strong><span>Google review</span></div>
+        </div>
+      </div>
+      <div class="card testimonial">
+        <div class="stars" aria-label="5 out of 5 stars">★★★★★</div>
+        <blockquote>“Decent group of lads. Helped us move out our old office block into storage. Thanks again lads.”</blockquote>
+        <div class="author">
+          <div class="avatar" aria-hidden="true">LM</div>
+          <div><strong>Lavey Media</strong><span>Google review</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ VIDEO TESTIMONIAL ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Video Testimonial</span>
+      <h2>Hear It From a Happy Customer</h2>
+      <p>No scripts, no acting — just a customer telling us how her move went.</p>
+    </div>
+    <div class="video-wrap" style="max-width:720px;margin:0 auto;">
+      <iframe src="https://www.youtube.com/embed/Zege0k3LPsQ?si=Nil5VcuVT1qsaN1k" title="Albert Miles Removals — customer testimonial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+    </div>
+  </div>
+</section>
+
+<!-- ============ WHY PEOPLE REVIEW US ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Why the Good Reviews?</span>
+      <h2>What Customers Appreciate Most</h2>
+    </div>
+    <div class="grid grid-3">
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">1</div>
+        <div><h3>On-time arrivals</h3><p>We arrive when we promise. Our vans are loaded, fuelled and waiting.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">2</div>
+        <div><h3>Careful handling</h3><p>Professional wrapping, correct lifting and furniture covers on every job.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">3</div>
+        <div><h3>No hidden charges</h3><p>The quote we give is the price you pay — confirmed in writing before you book.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">4</div>
+        <div><h3>Real humans</h3><p>You speak to the same team that will move you, not a faceless call centre.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">5</div>
+        <div><h3>Damage-free</h3><p>Goods-in-transit cover up to £10m — and we work hard never to need it.</p></div>
+      </div>
+      <div class="card why-card">
+        <div class="card-ico" aria-hidden="true">6</div>
+        <div><h3>Honest feedback</h3><p>We listen, improve and genuinely care about the rating on your review.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Join 1,500+ Happy Customers</h2>
+        <p>Book your move today and find out why everyone's talking about Albert Miles.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

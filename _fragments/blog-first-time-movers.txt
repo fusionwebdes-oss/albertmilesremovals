@@ -1,0 +1,88 @@
+@path blog/first-time-movers.html
+@title First Time Moving House? Start Here | Albert Miles Blog
+@desc New to house moves? A friendly guide to what actually happens on the day — from booking to keys — from experienced movers.
+@canonical https://www.albertmilesremovals.co.uk/blog/first-time-movers.html
+@active blog/index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "First Time Moving House? Start Here",
+  "author": { "@type": "Organization", "name": "Albert Miles Removals" },
+  "publisher": { "@type": "Organization", "name": "Albert Miles Removals" }
+}
+@body
+<!-- ============ ARTICLE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/home-page-gallery-13.webp" alt="First time mover boxes and keys" loading="eager">
+  </div>
+  <div class="container">
+    <div class="post-meta"><span>Checklists</span><span>4 min read</span></div>
+    <h1>First Time Moving House? Start Here</h1>
+    <p class="lead">If you've never done this before, it feels like a lot. It isn't — if you follow a process.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Blog</a></li>
+        <li aria-current="page">First-Time Movers</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ ARTICLE BODY ============ -->
+<section class="section">
+  <div class="container article">
+    <div class="prose">
+      <h2>The Three-Phase Move</h2>
+      <p>Every move, however big, is three phases: <strong>prepare</strong>, <strong>move</strong>, <strong>settle</strong>. Nail each and the whole thing stays calm.</p>
+
+      <h2>Phase 1: Prepare</h2>
+      <ul>
+        <li>Book your <a href="../services/house-removals.html">removal team</a> at least three weeks ahead for a weekend.</li>
+        <li>Declutter — sell or donate what you don't use. You move less and pay less.</li>
+        <li>Start packing the least-used rooms first (see the <a href="moving-house-checklist.html">full checklist</a>).</li>
+        <li>Take a meter reading at your current home and tell your provider.</li>
+      </ul>
+
+      <h2>Phase 2: Move Day</h2>
+      <ul>
+        <li>Have a labelled essentials box ready — kettle, chargers, meds, a change of clothes.</li>
+        <li>Be present to walk the crew through heavy items and fragile bits.</li>
+        <li>Ask the crew to put boxes in the right rooms — it saves you hours.</li>
+        <li>Leave valuables and paperwork with you, not the van.</li>
+      </ul>
+
+      <h2>Phase 3: Settle</h2>
+      <ul>
+        <li>Unpack the kitchen and bedrooms first — everything else can wait.</li>
+        <li>Read both meters and photograph them.</li>
+        <li>Set up the boiler, wifi and security before you collapse.</li>
+        <li>Redirect your post for 12 months.</li>
+      </ul>
+
+      <h2>What Most People Get Wrong</h2>
+      <p>Packing too late. The single biggest source of stress on move day is a family still packing while the crew waits. Aim to be fully packed by the night before — the crew arrives to a done job, and the day becomes almost pleasant.</p>
+
+      <h2>You Don't Have to Do It All Yourself</h2>
+      <p>If that sounds like a lot, that's what we're for — moving is our whole job. <a href="../quote.html">Request a quote</a> or call <a href="tel:+441216792511">0121 679 2511</a>, and we'll take the heavy end.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Your First Move?</h2>
+        <p>We've done this thousands of times. Let's make yours easy.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

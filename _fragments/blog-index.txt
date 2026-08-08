@@ -1,0 +1,107 @@
+@path blog/index.html
+@title Moving Tips & Removals Guides | Albert Miles Blog
+@desc Practical moving advice from the West Midlands removal experts — cost guides, checklists, packing tips and more.
+@canonical https://www.albertmilesremovals.co.uk/blog/index.html
+@active blog/index.html
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/home-page-gallery-13.webp" alt="Albert Miles removal team ready for a move" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Moving Tips & Guides</h1>
+    <p>Practical, no-nonsense advice from the West Midlands removal experts.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li aria-current="page">Blog</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ FEATURED ============ -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Latest Article</span>
+      <h2>Featured Guide</h2>
+    </div>
+    <article class="card featured-post">
+      <div class="featured-img">
+        <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Cost of removals guide" loading="lazy">
+      </div>
+      <div class="featured-body">
+        <div class="post-meta"><span>Guides</span><span>6 min read</span></div>
+        <h3><a href="cost-of-removals.html">How Much Do Removals Cost in the UK in 2026?</a></h3>
+        <p>Prices from real removals firms — local moves, long-distance, man & van and what actually drives the final number. Updated for 2026.</p>
+        <a class="btn btn-red" href="cost-of-removals.html">Read Article</a>
+      </div>
+    </article>
+  </div>
+</section>
+
+<!-- ============ ALL POSTS ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">From the Blog</span>
+      <h2>All Articles</h2>
+    </div>
+    <div class="grid grid-3">
+      <article class="card blog-card">
+        <div class="post-meta"><span>Checklists</span><span>8 min read</span></div>
+        <h3><a href="moving-house-checklist.html">Moving House Checklist: 8 Weeks to Move Day</a></h3>
+        <p>A week-by-week plan that keeps your house move calm, organised and on budget.</p>
+        <a class="btn-link" href="moving-house-checklist.html">Read Article</a>
+      </article>
+      <article class="card blog-card">
+        <div class="post-meta"><span>Tips</span><span>5 min read</span></div>
+        <h3><a href="packing-tips.html">18 Packing Tips From Professional Movers</a></h3>
+        <p>Box weight, labels, wardrobes and the one thing people always pack too late.</p>
+        <a class="btn-link" href="packing-tips.html">Read Article</a>
+      </article>
+      <article class="card blog-card">
+        <div class="post-meta"><span>Guides</span><span>6 min read</span></div>
+        <h3><a href="piano-move-guide.html">Moving a Piano: The Complete Guide</a></h3>
+        <p>Uprights, grands and the realities of shifting a heavy, delicate instrument safely.</p>
+        <a class="btn-link" href="piano-move-guide.html">Read Article</a>
+      </article>
+      <article class="card blog-card">
+        <div class="post-meta"><span>Guides</span><span>7 min read</span></div>
+        <h3><a href="long-distance-moves.html">Long-Distance Moves: A Practical Guide</a></h3>
+        <p>Planning a relocation across the UK? Here's what to prepare, ask and expect.</p>
+        <a class="btn-link" href="long-distance-moves.html">Read Article</a>
+      </article>
+      <article class="card blog-card">
+        <div class="post-meta"><span>Checklists</span><span>4 min read</span></div>
+        <h3><a href="first-time-movers.html">First Time Moving House? Start Here</a></h3>
+        <p>New to the whole process? Our friendly guide to what actually happens on the day.</p>
+        <a class="btn-link" href="first-time-movers.html">Read Article</a>
+      </article>
+      <article class="card blog-card">
+        <div class="post-meta"><span>Tips</span><span>5 min read</span></div>
+        <h3><a href="office-move-plan.html">Planning an Office Move: What Goes Wrong & How to Avoid It</a></h3>
+        <p>Business relocations need a plan, not hope. Here's the downtime-busting approach.</p>
+        <a class="btn-link" href="office-move-plan.html">Read Article</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Planning a Move?</h2>
+        <p>Get a free fixed-price quote from the West Midlands' most reliable removals crew.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>

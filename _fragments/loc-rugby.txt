@@ -1,0 +1,168 @@
+@path locations/removals-rugby.html
+@title Removals in Rugby | Local Movers | Albert Miles
+@desc House & office removals in Rugby covering CV21–CV23. Local experts in Bilton, Hillmorton & more. Fixed prices, £10m cover. Free quotes today.
+@canonical https://www.albertmilesremovals.co.uk/locations/removals-rugby.html
+@active index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Albert Miles Removals Rugby",
+  "telephone": "+441216792511",
+  "areaServed": "Rugby, Warwickshire"
+}
+@body
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+  <div class="page-hero-bg">
+    <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removals team in Rugby" loading="eager">
+  </div>
+  <div class="container">
+    <h1>Removals in Rugby</h1>
+    <p>Home of the game, and of plenty of family moves too — from Bilton's semis to Hillmorton's estates and the CV23 villages.</p>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="index.html">Locations</a></li>
+        <li aria-current="page">Rugby</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!-- ============ OVERVIEW ============ -->
+<section class="section">
+  <div class="container split">
+    <div class="prose">
+      <span class="kicker">Overview</span>
+      <h2>Rugby Moves With Local Reliability</h2>
+      <p>Rugby is a growing Warwickshire town with excellent connections — the M1, M6 and West Coast Main Line all run through it, which makes it a popular base for commuters and a steady source of moves.</p>
+      <p>We cover the CV21–CV23 postcodes: Rugby town (CV21), Bilton and New Bilton (CV22), Hillmorton (CV21), Coton Park (CV21), the new estates around the A5 (CV23) and the villages like Brinklow, Dunchurch and Stretton-on-Dunsmore.</p>
+      <p>Whether it's a family home on a new estate, a period property near the centre or an office move in the town, our crews bring the same fixed-price promise and careful, professional handling — and we know the fastest routes through town on match days too.</p>
+
+      <h2>Areas We Cover</h2>
+      <div class="loc-chips">
+        <a href="#rugby">Rugby Town (CV21)</a>
+        <a href="#rugby">Bilton (CV22)</a>
+        <a href="#rugby">New Bilton (CV22)</a>
+        <a href="#rugby">Hillmorton (CV21)</a>
+        <a href="#rugby">Coton Park (CV21)</a>
+        <a href="#rugby">Dunchurch (CV22)</a>
+        <a href="#rugby">Brinklow (CV23)</a>
+        <a href="#rugby">Stretton (CV23)</a>
+        <a href="removals-coventry.html">Coventry (CV1)</a>
+        <a href="removals-nuneaton.html">Nuneaton (CV10)</a>
+      </div>
+
+      <h2>Popular Moves in Rugby</h2>
+      <div class="info-box">
+        <h3>Family homes & new estates</h3>
+        <p>From Hillmorton semis to Coton Park and the CV23 new builds, family moves with full packing and furniture handling are our bread and butter.</p>
+      </div>
+      <div class="info-box">
+        <h3>Period & town-centre homes</h3>
+        <p>Rugby has lovely Victorian and Edwardian homes near the centre that need extra care — especially with limited parking.</p>
+      </div>
+      <div class="info-box">
+        <h3>Business moves</h3>
+        <p>Offices and units around Rugby's business parks move with us — see <a href="../services/commercial-relocation.html">commercial relocation</a>.</p>
+      </div>
+    </div>
+    <div>
+      <div class="sidebar-card">
+        <h3>Local Know-How</h3>
+        <p>M6 J1 and the M45 give us fast routes into Rugby, and we plan around the town centre's parking restrictions and match-day traffic.</p>
+        <a class="btn btn-charcoal btn-block" href="../quote.html">Get a Rugby Quote</a>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Pricing Guide</h3>
+        <div class="prose" style="font-size:0.9rem;">
+          <table>
+            <tr><th>Move</th><th>Typical price</th></tr>
+            <tr><td>1-bed flat</td><td>£300–£500</td></tr>
+            <tr><td>3-bed house</td><td>£460–£820</td></tr>
+            <tr><td>4-bed house</td><td>£700–£1,250</td></tr>
+            <tr><td>Man & van</td><td>From £90</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Related Services</h3>
+        <ul class="checklist">
+          <li><a href="../services/packing-services.html">Packing Services</a></li>
+          <li><a href="../services/storage.html">Storage</a></li>
+          <li><a href="../services/furniture-assembly.html">Furniture Assembly</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Rugby FAQs</span>
+      <h2>Moving in Rugby? These Answers Help</h2>
+    </div>
+    <div style="max-width:820px;margin:0 auto;">
+      <details class="faq-item" open>
+        <summary>How much does a move cost in Rugby?</summary>
+        <div class="faq-body"><p>Local moves typically range from £300 for a flat to around £1,250 for a large family home. Your free fixed quote is confirmed in writing.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you cover Bilton and Hillmorton?</summary>
+        <div class="faq-body"><p>Yes — the CV21–CV23 postcodes, including Bilton, Hillmorton, Coton Park and the surrounding villages, are all regular routes.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you move us into a new build?</summary>
+        <div class="faq-body"><p>Yes — we move families into new homes across the CV23 development area regularly, coordinating access on new roads.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Do you move between Rugby and Coventry?</summary>
+        <div class="faq-body"><p>Yes — it's a short, regular route. We'll quote a fixed door-to-door price.</p></div>
+      </details>
+      <details class="faq-item">
+        <summary>Can you store belongings?</summary>
+        <div class="faq-body"><p>Yes — see <a href="../services/storage.html">storage</a> for secure, flexible terms with collection and delivery.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="section section-grey">
+  <div class="container">
+    <div class="section-head">
+      <span class="kicker">Our Service Area</span>
+      <h2>Rugby & Neighbouring Towns</h2>
+    </div>
+    <div class="map-wrap" style="max-width:900px;margin:0 auto;">
+      <iframe src="https://maps.google.com/maps?q=Rugby%2C%20UK&t=&z=12&ie=UTF8&iwloc=&output=embed" title="Map of Rugby served by Albert Miles Removals" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="related-nav mt-2" style="max-width:900px;margin-left:auto;margin-right:auto;">
+      <a href="removals-coventry.html">Coventry</a>
+      <a href="removals-nuneaton.html">Nuneaton</a>
+      <a href="removals-tamworth.html">Tamworth</a>
+      <a href="removals-birmingham.html">Birmingham</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner">
+      <div>
+        <h2>Moving in Rugby?</h2>
+        <p>Get a free fixed-price quote from your local removal experts.</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-white btn-lg" href="../quote.html">Get Free Quote</a>
+        <a class="btn btn-outline-white btn-lg" href="tel:+441216792511">0121 679 2511</a>
+      </div>
+    </div>
+  </div>
+</section>
