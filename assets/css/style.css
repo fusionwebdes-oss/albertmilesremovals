@@ -646,8 +646,6 @@ h4 { font-size: 1.1rem; }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .steps-3 { grid-template-columns: 1fr; gap: 1.5rem; }
   .quote-cta-row { grid-template-columns: 1fr; }
-  .hero-bg video { display: none; }
-  .hero-bg .hero-fallback { display: block; }
 }
 
 @media (prefers-reduced-motion: reduce) {
