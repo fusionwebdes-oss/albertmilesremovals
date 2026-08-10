@@ -1,6 +1,6 @@
 @path blog/cost-of-removals.html
-@title How Much Do Removals Cost in 2026? | Albert Miles Blog
-@desc Real removal prices for 2026 — local moves, long-distance, man & van. See what drives the cost and how fixed quotes protect you.
+@title How Much Do House Removals Cost in 2026? | Albert Miles
+@desc House removal costs for 2026 — local moves, long-distance, man & van. See what drives removals prices and how fixed quotes protect you.
 @canonical https://www.albertmilesremovals.co.uk/blog/cost-of-removals.html
 @active blog/index.html
 @schema
@@ -36,7 +36,7 @@
   <div class="container article">
     <div class="prose">
       <h2>The Short Answer</h2>
-      <p>Most local house moves in the UK cost between <strong>£300 and £1,200</strong>, depending on size, distance and time of year. A man-and-van job might be <strong>£80–£300</strong>, while a long-distance move can run <strong>£500–£2,500+</strong>.</p>
+      <p>Most local house moves in the UK cost between <strong>£300 and £1,200</strong>, depending on size, distance and time of year. A man-and-van job might be <strong>£80–£300</strong>, while a long-distance move can run <strong>£500–£2,500+</strong>. Looking for cheap house removals? A fixed-price quote is the best way to compare house removal costs fairly.</p>
       <p>Those ranges are deliberately wide, because price is driven by specifics. Here's what actually moves the number.</p>
 
       <h2>Typical Prices by Property Size</h2>
@@ -78,7 +78,7 @@
       </ul>
 
       <h2>One Thing to Always Ask For</h2>
-      <p>Goods-in-transit insurance. Professional firms carry £10m+ cover with clear terms. If a quote looks too good, ask what happens if something breaks.</p>
+      <p>Goods-in-transit insurance. Professional firms carry £10m+ cover with clear terms. If a quote looks too good, ask what happens if something breaks. Remember, removal company prices vary widely — always compare fixed quotes in writing, not hourly estimates.</p>
 
       <h2>Ready for a Real Number?</h2>
       <p>Tell us what you're moving and we'll give you a fixed price. <a href="../quote.html">Request a quote</a> or call <a href="tel:+441216792511">0121 679 2511</a>.</p>

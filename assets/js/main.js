@@ -8,7 +8,10 @@
 
   function closeNav() {
     if (nav) nav.classList.remove('open');
-    if (toggle) toggle.classList.remove('open');
+    if (toggle) {
+      toggle.classList.remove('open');
+      toggle.setAttribute('aria-expanded', 'false');
+    }
     if (backdrop) backdrop.classList.remove('show');
   }
 
@@ -16,6 +19,7 @@
     toggle.addEventListener('click', function () {
       nav.classList.toggle('open');
       toggle.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', nav.classList.contains('open') ? 'true' : 'false');
       if (backdrop) backdrop.classList.toggle('show');
     });
   }

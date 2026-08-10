@@ -1,5 +1,5 @@
 @path locations/removals-cannock.html
-@title Removals in Cannock | Local Movers | Albert Miles
+@title House Removals Cannock | Albert Miles
 @desc House & office removals in Cannock covering WS11–WS12. Local experts in Hednesford, Norton Canes & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-cannock.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles-5.webp" alt="Albert Miles removals crew in Cannock" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Cannock</h1>
+    <h1>House Removals in Cannock</h1>
     <p>From the town centre to Hednesford and the edge of Cannock Chase, we move Cannock homes with local knowledge and fair fixed prices.</p>
+    <p>Looking for <strong>house removals in Cannock</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Cannock — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

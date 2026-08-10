@@ -1,5 +1,5 @@
 @path locations/removals-halesowen.html
-@title Removals in Halesowen | Local Movers | Albert Miles
+@title House Removals Halesowen | Albert Miles
 @desc House & office removals in Halesowen covering B62–B63. Local experts in Hasbury, Cradley & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-halesowen.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/albert-miles-removals-20147.webp" alt="Albert Miles removals crew in Halesowen" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Halesowen</h1>
+    <h1>House Removals in Halesowen</h1>
     <p>Hillside town moves handled by a crew that knows its way up, down and around every Halesowen street.</p>
+    <p>Looking for <strong>house removals in Halesowen</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Halesowen — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

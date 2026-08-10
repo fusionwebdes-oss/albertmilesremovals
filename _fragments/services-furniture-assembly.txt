@@ -1,6 +1,6 @@
 @path services/furniture-assembly.html
-@title Furniture Assembly Service | Flat-Pack Building | Albert Miles
-@desc Professional furniture assembly in the West Midlands. Flat-pack and flat-packed furniture built safely and correctly. Wardrobes, kitchens, office furniture & more. Free quotes.
+@title Furniture Assembly Service | Albert Miles
+@desc Professional furniture assembly in the West Midlands. Flat-pack furniture built safely and correctly — wardrobes, kitchens & office furniture. Free quotes.
 @canonical https://www.albertmilesremovals.co.uk/services/furniture-assembly.html
 @active index.html
 @schema
@@ -38,7 +38,7 @@
       <span class="kicker">Overview</span>
       <h2>From Box to Built, Properly</h2>
       <p>That flat-pack wardrobe with 14 pages of instructions has defeated better people than us — which is exactly why we offer furniture assembly. Our team assembles flat-pack furniture every week, so what takes you a frustrating evening takes us under an hour, with the shelves level, the doors aligned and the fixings tight.</p>
-      <p>We build wardrobes, chests of drawers, beds, desks, shelving, garden furniture, office workstations and even fitted kitchen units. We bring our own tools, work carefully in your home and take packaging away with us.</p>
+      <p>We build wardrobes, chests of drawers, beds, desks, shelving, garden furniture, office workstations and even fitted kitchen units. We bring our own tools, work carefully in your home and take packaging away with us. Need the furniture moved first? Add our furniture removal service and we'll assemble everything at your new home.</p>
       <p>Furniture assembly is especially popular with new homeowners who've bought a house full of flat-pack, and with busy families who'd rather spend the weekend exploring their new area than wrestling with an Allen key.</p>
 
       <h2>What We Assemble</h2>

@@ -1,5 +1,5 @@
 @path locations/removals-sutton-coldfield.html
-@title Removals in Sutton Coldfield | Local Movers | Albert Miles
+@title House Removals Sutton Coldfield | Albert Miles
 @desc House & office removals in Sutton Coldfield covering B72–B76. Local experts in Boldmere, Four Oaks, Walmley & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-sutton-coldfield.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Albert Miles removals van in Sutton Coldfield" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Sutton Coldfield</h1>
+    <h1>House Removals in Sutton Coldfield</h1>
     <p>Royal-town moves with a premium service — from Boldmere's semis to the grand houses of Four Oaks and the new homes around Walmley.</p>
+    <p>Looking for <strong>house removals in Sutton Coldfield</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Sutton Coldfield — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

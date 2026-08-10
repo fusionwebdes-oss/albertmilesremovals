@@ -1,6 +1,6 @@
 @path locations/removals-bilston.html
 @title Bilston Removals | Albert Miles
-@desc House removals, packing and storage across Bilston and the WV14 area. Free in-home survey and fixed written quote from Albert Miles Removals. Call 0121 679 2511.
+@desc House removals, packing and storage across Bilston and the WV14 area. Free in-home survey and fixed written quote. Call 0121 679 2511.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-bilston.html
 @active index.html
 @schema
@@ -18,7 +18,7 @@
     <img src="../Images/home-page-gallery-13.webp" alt="Albert Miles removals van in Bilston" loading="eager">
   </div>
   <div class="container">
-    <h1>Bilston Removals | Albert Miles</h1>
+    <h1>House Removals in Bilston</h1>
     <p>Albert Miles carries out house removals, packing, and storage across Bilston and the WV14 area. Every move starts with a free in-home survey and a fixed written quote — the price agreed before the day is the price on the invoice.</p>
     <div class="loc-hero-rating">
       <span class="stars" aria-label="5 out of 5 stars">★★★★★</span>
@@ -27,6 +27,7 @@
       <a class="btn btn-white btn-lg" href="tel:+441216792511">Call Now</a>
       <a class="btn btn-red btn-lg" href="../quote.html">Get a Quote</a>
     </div>
+    <p>Looking for <strong>house removals in Bilston</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Bilston — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

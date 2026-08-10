@@ -1,5 +1,5 @@
 @path locations/removals-smethwick.html
-@title Removals in Smethwick | Local Movers | Albert Miles
+@title House Removals Smethwick | Albert Miles
 @desc House & office removals in Smethwick covering B66–B67. Local experts in Bearwood, Warley & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-smethwick.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Albert Miles removals crew in Smethwick" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Smethwick</h1>
+    <h1>House Removals in Smethwick</h1>
     <p>Bearwood's independent shops, Warley's views and everything in between — Smethwick moves done by a nearby, trusted local crew.</p>
+    <p>Looking for <strong>house removals in Smethwick</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Smethwick — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

@@ -1,5 +1,5 @@
 @path locations/removals-shrewsbury.html
-@title Removals in Shrewsbury | Local Movers | Albert Miles
+@title House Removals Shrewsbury | Albert Miles
 @desc House & long-distance removals in Shrewsbury covering SY1–SY3. Local experts in Abbey Foregate, Monkmoor & more. Fixed prices, £10m cover.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-shrewsbury.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/home-page-gallery-13.webp" alt="Albert Miles removals van in Shrewsbury" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Shrewsbury</h1>
+    <h1>House Removals in Shrewsbury</h1>
     <p>Historic county town moves with real care — from Abbey Foregate terraces to Monkmoor family homes and long-distance runs to the Midlands.</p>
+    <p>Looking for <strong>house removals in Shrewsbury</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Shrewsbury — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

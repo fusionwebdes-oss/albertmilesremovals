@@ -1,5 +1,5 @@
 @path locations/removals-lichfield.html
-@title Removals in Lichfield | Local Movers | Albert Miles
+@title House Removals Lichfield | Albert Miles
 @desc House & office removals in Lichfield covering WS13–WS14. Local experts in Stowe, Streethay & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-lichfield.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles-5.webp" alt="Albert Miles removals crew in Lichfield" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Lichfield</h1>
+    <h1>House Removals in Lichfield</h1>
     <p>Cathedral city moves handled with extra care — from Georgian homes near the Close to family estates in Streethay and Whittington.</p>
+    <p>Looking for <strong>house removals in Lichfield</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Lichfield — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

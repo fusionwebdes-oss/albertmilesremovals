@@ -67,16 +67,16 @@
         <h2>Booking & Planning</h2>
       </div>
       <details class="faq-item" open>
-        <summary>How much does a removal cost?</summary>
-        <div class="faq-body"><p>Most West Midlands house removals fall between £350 and £1,200. The final price depends on the size of your property, how much furniture you have, the distance and the date. We give a free, fixed quote — no call-out fee, no obligation.</p></div>
+        <summary>How much do house removals cost?</summary>
+        <div class="faq-body"><p>House removal costs in the West Midlands typically fall between £350 and £1,200. The final price depends on the size of your property, how much furniture you have, the distance and the date. We're proud to offer affordable house removals — every quote is free, fixed and confirmed in writing, with no call-out fee and no obligation.</p></div>
       </details>
       <details class="faq-item">
-        <summary>How do I get a quote?</summary>
-        <div class="faq-body"><p>Call us on 0121 679 2511 or complete the quick form on our <a href="quote.html">quote page</a>. We'll ask about your property, postcode and a rough idea of your belongings, then confirm a fixed price — usually the same day.</p></div>
+        <summary>How do I get a removals quote?</summary>
+        <div class="faq-body"><p>Call us on 0121 679 2511 or complete the quick form on our <a href="quote.html">quote page</a>. We'll ask about your property, postcode and a rough idea of your belongings, then confirm a fixed removal company quote and our removals prices — usually the same day.</p></div>
       </details>
       <details class="faq-item">
-        <summary>How far in advance should I book?</summary>
-        <div class="faq-body"><p>Ideally 2–4 weeks, especially for weekends and month-end dates, which fill up fast. For urgent moves, call us anyway — we regularly fit in small moves with only a few days' notice.</p></div>
+        <summary>Can you do last minute or same day removals?</summary>
+        <div class="faq-body"><p>Yes — we regularly handle last minute removals, emergency removals and same day removals when availability allows, as well as busy weekend house removals. Call us on 0121 679 2511 and we'll do our best to fit you in.</p></div>
       </details>
       <details class="faq-item">
         <summary>Do you work weekends and evenings?</summary>
@@ -84,7 +84,7 @@
       </details>
       <details class="faq-item">
         <summary>Which areas do you cover?</summary>
-        <div class="faq-body"><p>We're based in Birmingham and cover the whole West Midlands — including <a href="locations/removals-wolverhampton.html">Wolverhampton</a>, <a href="locations/removals-walsall.html">Walsall</a>, <a href="locations/removals-dudley.html">Dudley</a>, <a href="locations/removals-solihull.html">Solihull</a>, <a href="locations/removals-coventry.html">Coventry</a> and 20 more towns and cities. We also handle <a href="services/long-distance-removals.html">long-distance moves</a> anywhere in the UK.</p></div>
+        <div class="faq-body"><p>We're a local removal company near me for thousands of households across the West Midlands — based in Birmingham and covering <a href="locations/removals-wolverhampton.html">Wolverhampton</a>, <a href="locations/removals-walsall.html">Walsall</a>, <a href="locations/removals-dudley.html">Dudley</a>, <a href="locations/removals-solihull.html">Solihull</a>, <a href="locations/removals-coventry.html">Coventry</a> and 20 more towns and cities. Whether you search for house movers near me or a removals company near me, we're the local team on your doorstep. We also handle <a href="services/long-distance-removals.html">long-distance moves</a> anywhere in the UK.</p></div>
       </details>
       <details class="faq-item">
         <summary>How much notice do I need for a man and van?</summary>

@@ -1,6 +1,6 @@
 @path services/storage.html
 @title Secure Storage in the West Midlands | Albert Miles Removals
-@desc Secure, dry, monitored storage units across the West Midlands. Flexible terms from a few boxes to a whole house. Combine with removals for the best rates. Free quotes.
+@desc Secure, dry, monitored storage units across the West Midlands. Flexible terms from a few boxes to a whole house. Combine storage and removals for best rates.
 @canonical https://www.albertmilesremovals.co.uk/services/storage.html
 @active index.html
 @schema
@@ -38,7 +38,7 @@
       <span class="kicker">Overview</span>
       <h2>Storage That's There When You Need It</h2>
       <p>Completion dates rarely line up neatly. If there's a gap between handing over the keys and picking up the new ones, our secure storage is the simplest solution — and we make it genuinely easy.</p>
-      <p>Unlike conventional self-storage where you do the lifting, our service is door-to-door: we collect your belongings from your old home, store them in clean, dry, monitored units, and deliver them to your new home whenever you're ready. You never have to hire a van, queue for a lift or carry boxes up a loading ramp.</p>
+      <p>We're a removals and storage company that works door-to-door: our removal team collects your belongings from your old home, stores them in clean, dry, monitored units, and delivers them to your new home whenever you're ready. You never have to hire a van, queue for a lift or carry boxes up a loading ramp. Combined storage and removals gives you one fixed quote and one team for the whole job.</p>
       <p>Whether you need space for a few boxes during a house sale or a full 4-bedroom household for several months, we'll size the unit to fit and store your furniture on proper racking where needed so nothing sits on a damp floor.</p>
 
       <h2>What's Included</h2>

@@ -1,6 +1,6 @@
 @path locations/removals-birmingham.html
-@title Removals in Birmingham | Local Removal Company | Albert Miles
-@desc Moving in or out of Birmingham? Local removal experts covering all B postcodes — city flats, HMOs & family homes. Fixed prices, £10m cover, CAZ-aware crews. Free quote.
+@title House Removals Birmingham | Albert Miles
+@desc House removals in Birmingham covering all B postcodes — city flats, HMOs & family homes. Local removal company, fixed prices, £10m cover. Free quote.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-birmingham.html
 @active index.html
 @schema
@@ -20,8 +20,9 @@
     <img src="../Images/albert-miles-removals-20147.webp" alt="Albert Miles removals van in Birmingham" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Birmingham</h1>
+    <h1>House Removals in Birmingham</h1>
     <p>We're a Birmingham removals company, and moving people around the city is what we do best — from city-centre apartments to four-bedroom family homes in the suburbs.</p>
+    <p>We're the local removal company Birmingham residents trust. Looking for <strong>house removals Birmingham</strong>, a <strong>house removal company Birmingham</strong>, <strong>man and van Birmingham</strong> or a <strong>removals quote</strong>? Affordable house removals, fixed prices and crews that know every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

@@ -1,6 +1,6 @@
 @path services/long-distance-removals.html
 @title Long Distance Removals UK-Wide | Albert Miles Removals
-@desc UK-wide long distance removals from the West Midlands. Nationwide house moves, student moves & cross-country relocations. Fixed prices, £10m cover, regular routes.
+@desc UK-wide long distance removals from the West Midlands. Nationwide house moves, student moves & cross-country relocations. Fixed prices, £10m cover.
 @canonical https://www.albertmilesremovals.co.uk/services/long-distance-removals.html
 @active index.html
 @schema

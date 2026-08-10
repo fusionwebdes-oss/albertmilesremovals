@@ -1,6 +1,6 @@
 @path services/piano-removals.html
-@title Piano Removals West Midlands | Specialist Piano Movers | Albert Miles
-@desc Specialist piano removals across the West Midlands. Upright, grand & digital pianos moved safely with proper equipment and experienced handlers. Fixed quotes, £10m cover.
+@title Piano Removals West Midlands | Albert Miles
+@desc Specialist piano removals across the West Midlands. Upright, grand & digital pianos moved safely with proper equipment. Fixed quotes, £10m cover.
 @canonical https://www.albertmilesremovals.co.uk/services/piano-removals.html
 @active index.html
 @schema

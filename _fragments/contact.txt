@@ -1,6 +1,6 @@
 @path contact.html
-@title Contact Albert Miles Removals | Free Quote, Call or Email
-@desc Contact Albert Miles Removals for a free quote. Call 0121 679 2511, email us or use the contact form. Professional house and office removals across the West Midlands.
+@title Contact Us | Free Removals Quote | Albert Miles
+@desc Contact Albert Miles Removals for a free house removals quote. Call 0121 679 2511, email us or use the form. Local removal company across the West Midlands.
 @canonical https://www.albertmilesremovals.co.uk/contact.html
 @active index.html
 @schema

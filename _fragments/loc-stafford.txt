@@ -1,5 +1,5 @@
 @path locations/removals-stafford.html
-@title Removals in Stafford | Local Movers | Albert Miles
+@title House Removals Stafford | Albert Miles
 @desc House & office removals in Stafford covering ST16–ST21. Local experts in Baswich, Wildwood, Weeping Cross & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-stafford.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/albert-miles-removals-20147.webp" alt="Albert Miles removals van in Stafford" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Stafford</h1>
+    <h1>House Removals in Stafford</h1>
     <p>The county town, done properly — from Victorian villas near the centre to family homes in Wildwood, Baswich and Weeping Cross.</p>
+    <p>Looking for <strong>house removals in Stafford</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Stafford — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

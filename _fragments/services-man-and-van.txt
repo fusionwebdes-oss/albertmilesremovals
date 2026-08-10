@@ -1,6 +1,6 @@
 @path services/man-and-van.html
-@title Man & Van in the West Midlands | Albert Miles Removals
-@desc Cheap man and van hire with professional movers across Birmingham, Wolverhampton, Walsall & Dudley. Two-man crews, fixed prices, no hourly surprises. Book today.
+@title Man and Van Removals West Midlands | Albert Miles
+@desc Cheap man and van removals with professional movers across Birmingham, Walsall, Wolverhampton & Dudley. Moving van hire with driver, fixed prices.
 @canonical https://www.albertmilesremovals.co.uk/services/man-and-van.html
 @active index.html
 @schema
@@ -37,9 +37,9 @@
     <div class="prose">
       <span class="kicker">Overview</span>
       <h2>Small Moves, Done Properly</h2>
-      <p>Not every move needs a three-man crew and a 40-foot truck. For bedsits, one-bedroom flats, single items or a sofa that won't fit in your hatchback, our man & van service is the sweet spot: two professional movers, a modern, clean van and a fixed price agreed before we start.</p>
-      <p>Unlike some "man with a white van" operators, we're a fully licensed, insured removal company. Our man-and-van crews wear uniforms, bring furniture blankets and trolleys, and treat every job — however small — with the same care as a full house move.</p>
-      <p>We cover the whole West Midlands and further afield for single-item and small moves, and can also help with tip runs, furniture collections and deliveries.</p>
+      <p>Not every move needs a three-man crew and a 40-foot truck. For bedsits, one-bedroom flats, single items or a sofa that won't fit in your hatchback, our man and van removals are the sweet spot: two professional movers, a modern, clean van and a fixed price agreed before we start.</p>
+      <p>Unlike some "man with a van" operators, we're a fully licensed, insured removal company. Our man-and-van crews wear uniforms, bring furniture blankets and trolleys, and treat every job — however small — with the same care as a full house move. Whether you need moving van hire with driver for a day or a one-way drop-off, we've got you covered.</p>
+      <p>We cover the whole West Midlands and further afield for single item removals and small moves, and can also help with tip runs, furniture collections and deliveries.</p>
 
       <h2>Perfect For</h2>
       <ul class="checklist">

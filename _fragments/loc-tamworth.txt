@@ -1,5 +1,5 @@
 @path locations/removals-tamworth.html
-@title Removals in Tamworth | Local Movers | Albert Miles
+@title House Removals Tamworth | Albert Miles
 @desc House & office removals in Tamworth covering B77–B79. Local experts in Wilnecote, Amington & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-tamworth.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Albert Miles removals van in Tamworth" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Tamworth</h1>
+    <h1>House Removals in Tamworth</h1>
     <p>Castle town, family favourite — from Wilnecote's estates to Amington and Belgrave, we move Tamworth with a reliable local crew.</p>
+    <p>Looking for <strong>house removals in Tamworth</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Tamworth — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

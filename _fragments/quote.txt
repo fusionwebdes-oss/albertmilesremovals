@@ -1,6 +1,6 @@
 @path quote.html
-@title Get a Free Quote | Albert Miles Removals — Fixed Prices
-@desc Get a free, fixed-price removal quote from Albert Miles Removals. Home moves, office relocations, man & van, packing and storage. Response within hours.
+@title Free Removals Quote | House Removals Prices | Albert Miles
+@desc Get a free removals quote and house removal costs from Albert Miles. Fixed-price house removal company quote across the West Midlands. Response within hours.
 @canonical https://www.albertmilesremovals.co.uk/quote.html
 @active index.html
 @schema
@@ -28,7 +28,7 @@
   </div>
   <div class="container">
     <h1>Get Your Free Quote</h1>
-    <p>Fixed prices, no hidden extras, no obligation. Tell us about your move and we'll come back to you within hours.</p>
+    <p>Fixed prices, no hidden extras, no obligation. Get a free house removals quote — or a removals quote for office moves, man and van, packing and storage — and we'll come back to you within hours.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="index.html">Home</a></li>

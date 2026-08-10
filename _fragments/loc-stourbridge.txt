@@ -1,5 +1,5 @@
 @path locations/removals-stourbridge.html
-@title Removals in Stourbridge | Local Movers | Albert Miles
+@title House Removals Stourbridge | Albert Miles
 @desc House & office removals in Stourbridge covering DY8–DY9. Local experts in Wollaston, Wordsley, Amblecote & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-stourbridge.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removals van in Stourbridge" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Stourbridge</h1>
+    <h1>House Removals in Stourbridge</h1>
     <p>From Amblecote's terraces to the family homes of Pedmore and Wollaston, we move Stourbridge with a genuinely local touch.</p>
+    <p>Looking for <strong>house removals in Stourbridge</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Stourbridge — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

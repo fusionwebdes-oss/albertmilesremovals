@@ -1,6 +1,6 @@
 @path locations/removals-dudley.html
-@title Removals in Dudley | Local Movers | Albert Miles
-@desc House & office removals in Dudley covering all DY postcodes. Local experts in Netherton, Kingswinford, Brierley Hill & more. Fixed prices, £10m cover. Free quotes.
+@title House Removals Dudley | Albert Miles
+@desc House & office removals in Dudley covering all DY postcodes. Local experts in Netherton, Kingswinford, Brierley Hill & more. Fixed prices, £10m cover.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-dudley.html
 @active index.html
 @schema
@@ -18,8 +18,9 @@
     <img src="../Images/albert-miles-removals-20147.webp" alt="Albert Miles removals crew in Dudley" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Dudley</h1>
+    <h1>House Removals in Dudley</h1>
     <p>Castle-town moves handled by crews who know the Black Country — from Netherton's terraces to Kingswinford's family estates.</p>
+    <p>Looking for <strong>house removals in Dudley</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Dudley — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

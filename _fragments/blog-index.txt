@@ -1,8 +1,17 @@
 @path blog/index.html
 @title Moving Tips & Removals Guides | Albert Miles Blog
-@desc Practical moving advice from the West Midlands removal experts — cost guides, checklists, packing tips and more.
+@desc Practical moving advice from West Midlands removal experts — house removal costs, checklists, packing tips and more.
 @canonical https://www.albertmilesremovals.co.uk/blog/index.html
 @active blog/index.html
+@schema
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Albert Miles Removals Blog",
+  "url": "https://www.albertmilesremovals.co.uk/blog/index.html",
+  "publisher": { "@type": "Organization", "name": "Albert Miles Removals" },
+  "inLanguage": "en-GB"
+}
 @body
 <!-- ============ PAGE HERO ============ -->
 <section class="page-hero">

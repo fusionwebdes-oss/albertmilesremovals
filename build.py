@@ -38,6 +38,17 @@ BASE_HEAD = """<!DOCTYPE html>
 <meta name="description" content="{{DESC}}">
 <link rel="canonical" href="{{CANONICAL}}">
 <meta name="robots" content="index, follow">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Albert Miles Removals">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESC}}">
+<meta property="og:url" content="{{CANONICAL}}">
+<meta property="og:image" content="{{OG_IMAGE}}">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{TITLE}}">
+<meta name="twitter:description" content="{{DESC}}">
+<meta name="twitter:image" content="{{OG_IMAGE}}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -104,6 +115,7 @@ def build():
                 .replace("{{TITLE}}", title)
                 .replace("{{DESC}}", desc)
                 .replace("{{CANONICAL}}", canonical)
+                .replace("{{OG_IMAGE}}", SITE_URL + "/Images/albert-miles-removals-20147.webp")
                 .replace("{{SCHEMA}}", schema)
                 .replace("{{ROOT}}", root))
         header = HEADER.replace("{{ROOT}}", root)

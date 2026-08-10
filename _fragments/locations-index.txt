@@ -1,6 +1,6 @@
 @path locations/index.html
-@title Removals Locations | West Midlands Towns & Cities We Serve
-@desc Removal services across the West Midlands. Dedicated pages for Birmingham, Wolverhampton, Walsall, Dudley, Solihull, Coventry and 20 more towns and cities.
+@title Removals Locations | West Midlands Towns & Cities
+@desc Local removal company covering the West Midlands. Dedicated pages for house removals in Birmingham, Walsall, Wolverhampton, Dudley, Solihull, Coventry and more.
 @canonical https://www.albertmilesremovals.co.uk/locations/index.html
 @active index.html
 @schema
@@ -19,7 +19,7 @@
   </div>
   <div class="container">
     <h1>Removals Across the West Midlands</h1>
-    <p>We're a local company covering the whole region. Choose your town or city for a dedicated page with local advice, postcode details and move tips.</p>
+    <p>We're a local removal company covering the whole region. Choose your town or city for a dedicated page with local advice, postcode details and move tips — house removals, man and van removals, office moves and more.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

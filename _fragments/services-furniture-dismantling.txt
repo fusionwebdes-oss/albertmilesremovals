@@ -1,5 +1,5 @@
 @path services/furniture-dismantling.html
-@title Furniture Dismantling Service | Safe Disassembly | Albert Miles
+@title Furniture Dismantling & Removal | Albert Miles
 @desc Professional furniture dismantling in the West Midlands. Beds, wardrobes, sofas & flat-pack taken apart safely and reassembled at your new home. Free quotes.
 @canonical https://www.albertmilesremovals.co.uk/services/furniture-dismantling.html
 @active index.html
@@ -37,8 +37,8 @@
     <div class="prose">
       <span class="kicker">Overview</span>
       <h2>Nothing Too Big, Nothing Too Awkward</h2>
-      <p>Most furniture damage during a move happens at the doorframe — the classic "it came in, it can't go out" moment. Dismantling furniture first is the simple fix, and it's a standard part of every Albert Miles removal.</p>
-      <p>Our team routinely dismantles beds, wardrobes, corner sofas, dining tables, office furniture and heavy flat-pack items before a move, and rebuilds them at the new property. We keep every screw, fixing and tool organised, photograph tricky fittings and label parts so reassembly is straightforward.</p>
+      <p>Most furniture damage during a move happens at the doorframe — the classic "it came in, it can't go out" moment. Dismantling furniture first is the simple fix, and it's a standard part of every Albert Miles furniture removal.</p>
+      <p>Our team routinely dismantles beds, wardrobes, corner sofas, dining tables, office furniture and heavy flat-pack items before a move, and rebuilds them at the new property. We keep every screw, fixing and tool organised, photograph tricky fittings and label parts so reassembly is straightforward. From single sofa removal to large furniture removal for a whole house, our crews handle it with the right equipment and care.</p>
       <p>You don't have to be moving with us to use this service. If you need a piece dismantled and removed — for disposal, storage or a charity collection — we can do that too.</p>
 
       <h2>What We Dismantle</h2>

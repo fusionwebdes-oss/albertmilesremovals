@@ -1,6 +1,6 @@
 @path services/office-removals.html
-@title Office Removals & Commercial Moves | Albert Miles Removals
-@desc Professional office removals across the West Midlands. Minimal downtime, evenings & weekends available, sensitive equipment handled with care. Free fixed-price quotes.
+@title Office Removals West Midlands | Albert Miles
+@desc Professional office removals across the West Midlands. Minimal downtime, evenings & weekends, sensitive equipment handled with care. Free fixed-price quotes.
 @canonical https://www.albertmilesremovals.co.uk/services/office-removals.html
 @active index.html
 @schema

@@ -1,5 +1,5 @@
 @path locations/removals-tipton.html
-@title Removals in Tipton | Local Movers | Albert Miles
+@title House Removals Tipton | Albert Miles
 @desc House removals in Tipton covering DY4. Local experts in Great Bridge, Ocker Hill & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-tipton.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removals crew in Tipton" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Tipton</h1>
+    <h1>House Removals in Tipton</h1>
     <p>Solid Black Country moves — from Great Bridge to Ocker Hill, we move Tipton homes with a dependable local crew.</p>
+    <p>Looking for <strong>house removals in Tipton</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Tipton — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

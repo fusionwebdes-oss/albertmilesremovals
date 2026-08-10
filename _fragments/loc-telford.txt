@@ -1,5 +1,5 @@
 @path locations/removals-telford.html
-@title Removals in Telford | Local Movers | Albert Miles
+@title House Removals Telford | Albert Miles
 @desc House & office removals in Telford covering TF1–TF7. Local experts in Wellington, Madeley, Dawley & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-telford.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removals team in Telford" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Telford</h1>
+    <h1>House Removals in Telford</h1>
     <p>From Wellington's market town streets to Madeley, Dawley and the new developments — Telford moves handled by a crew that knows the town.</p>
+    <p>Looking for <strong>house removals in Telford</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Telford — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

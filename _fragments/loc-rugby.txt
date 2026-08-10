@@ -1,5 +1,5 @@
 @path locations/removals-rugby.html
-@title Removals in Rugby | Local Movers | Albert Miles
+@title House Removals Rugby | Albert Miles
 @desc House & office removals in Rugby covering CV21–CV23. Local experts in Bilton, Hillmorton & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-rugby.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removals team in Rugby" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Rugby</h1>
+    <h1>House Removals in Rugby</h1>
     <p>Home of the game, and of plenty of family moves too — from Bilton's semis to Hillmorton's estates and the CV23 villages.</p>
+    <p>Looking for <strong>house removals in Rugby</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Rugby — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

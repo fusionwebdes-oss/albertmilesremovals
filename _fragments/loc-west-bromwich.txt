@@ -1,5 +1,5 @@
 @path locations/removals-west-bromwich.html
-@title Removals in West Bromwich | Local Movers | Albert Miles
+@title House Removals West Bromwich | Albert Miles
 @desc House & office removals in West Bromwich covering B70–B71. Local experts in Great Barr, Charlemont & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-west-bromwich.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/albert-miles-removals-20147.webp" alt="Albert Miles removals van in West Bromwich" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in West Bromwich</h1>
+    <h1>House Removals in West Bromwich</h1>
     <p>From town-centre apartments to family homes in Great Barr and Charlemont, we move West Bromwich with a crew that knows the borough.</p>
+    <p>Looking for <strong>house removals in West Bromwich</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for West Bromwich — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

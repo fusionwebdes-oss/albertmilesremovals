@@ -1,5 +1,5 @@
 @path locations/removals-coventry.html
-@title Removals in Coventry | Local Movers | Albert Miles
+@title House Removals Coventry | Albert Miles
 @desc House & office removals in Coventry covering all CV postcodes. Local experts in Earlsdon, Coundon, Canley & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-coventry.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removals team in Coventry" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Coventry</h1>
+    <h1>House Removals in Coventry</h1>
     <p>The motor city deserves a well-oiled move. We cover every CV postcode with crews that know Coventry's streets, estates and students.</p>
+    <p>Looking for <strong>house removals in Coventry</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Coventry — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

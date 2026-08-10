@@ -1,5 +1,5 @@
 @path blog/moving-house-checklist.html
-@title Moving House Checklist (8 Weeks to Move Day) | Albert Miles Blog
+@title Moving House Checklist: 8 Weeks to Move Day | Albert Miles
 @desc A week-by-week moving house checklist. Book, pack, notify and prepare with confidence for a stress-free house move.
 @canonical https://www.albertmilesremovals.co.uk/blog/moving-house-checklist.html
 @active blog/index.html
@@ -37,7 +37,7 @@
     <div class="prose">
       <h2>8 Weeks Out</h2>
       <ul>
-        <li>Book your <a href="../services/house-removals.html">removal team</a> early — popular dates go fast.</li>
+        <li>Book your <a href="../services/house-removals.html">removal team</a> early — popular dates go fast. Compare local house movers and check reviews.</li>
         <li>Get three quotes, compare like-for-like, and check insurance cover.</li>
         <li>Start decluttering room by room. Sell, donate or bin — don't pay to move it.</li>
       </ul>

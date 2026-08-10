@@ -1,5 +1,5 @@
 @path locations/removals-solihull.html
-@title Removals in Solihull | Local Movers | Albert Miles
+@title House Removals Solihull | Albert Miles
 @desc House & office removals in Solihull covering B90–B94. Local experts in Shirley, Knowle, Dorridge & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-solihull.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Albert Miles removals van outside a Solihull home" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Solihull</h1>
+    <h1>House Removals in Solihull</h1>
     <p>Premium house moves in one of the West Midlands' most sought-after boroughs — from Shirley to Knowle, Dorridge and the villages beyond.</p>
+    <p>Looking for <strong>house removals in Solihull</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Solihull — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

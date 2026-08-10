@@ -1,6 +1,6 @@
 @path services/student-moves.html
-@title Student Moves & Uni Relocation | Albert Miles Removals
-@desc Student removals across the West Midlands. Moving to or from university halls, student houses and HMOs. Affordable man & van for students. Free quotes, flexible booking.
+@title Student Moves West Midlands | Albert Miles
+@desc Student removals across the West Midlands. Moving to or from university halls, student houses and HMOs. Affordable man & van, free quotes, flexible booking.
 @canonical https://www.albertmilesremovals.co.uk/services/student-moves.html
 @active index.html
 @schema

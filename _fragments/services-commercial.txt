@@ -1,6 +1,6 @@
 @path services/commercial-relocation.html
-@title Commercial Relocation West Midlands | Business Moving | Albert Miles
-@desc Complete commercial relocation across the West Midlands. Offices, shops, surgeries, warehouses & more. Site surveys, fixed quotes, minimal downtime. Free consultation.
+@title Commercial Relocation West Midlands | Albert Miles
+@desc Complete commercial relocation across the West Midlands. Offices, shops, surgeries & warehouses. Site surveys, fixed quotes, minimal downtime.
 @canonical https://www.albertmilesremovals.co.uk/services/commercial-relocation.html
 @active index.html
 @schema

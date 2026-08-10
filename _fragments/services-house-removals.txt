@@ -1,6 +1,6 @@
 @path services/house-removals.html
-@title House Removals in the West Midlands | Albert Miles Removals
-@desc Stress-free house removals across Birmingham, Wolverhampton, Walsall & Dudley. Fixed prices, £10m insurance, professional packing & furniture reassembly. Free quote today.
+@title House Removals | House Removal Company | Albert Miles
+@desc Professional house removals across Birmingham, Walsall, Wolverhampton & Dudley. Local house removal company — fixed prices, £10m insurance, packing. Free quote.
 @canonical https://www.albertmilesremovals.co.uk/services/house-removals.html
 @active index.html
 @schema
@@ -21,7 +21,7 @@
   </div>
   <div class="container">
     <h1>House Removals in the West Midlands</h1>
-    <p>Full-service home moves handled end-to-end — from the first box to the final piece of furniture in its new place.</p>
+    <p>Full-service home moves handled end-to-end by a professional house removals team — from the first box to the final piece of furniture in its new place.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>
@@ -39,8 +39,9 @@
       <span class="kicker">Overview</span>
       <h2>Complete House Removal Service</h2>
       <p>Moving house is one of the biggest logistical jobs you'll ever take on — and one you shouldn't have to do alone. At Albert Miles Removals, our house removal service is designed to take the weight off your shoulders completely. One team, one fixed price and every detail looked after, from dismantling the bed to placing the kettle in your new kitchen.</p>
-      <p>We've moved every type of home in the West Midlands: one-bedroom flats in Birmingham's Jewellery Quarter, period terraces in Wolverhampton, four-bedroom family homes in Solihull and everything in between. Whatever your property, we turn up with the right crew, the right van and the right equipment.</p>
+      <p>We're the local removal company West Midlands families choose for professional house removals. We've moved every type of home: one-bedroom flats in Birmingham's Jewellery Quarter, period terraces in Wolverhampton, four-bedroom family homes in Solihull and everything in between. Whatever your property, we turn up with the right crew, the right van and the right equipment.</p>
       <p>Every house move with us includes a dedicated move coordinator, so you always have a single person to call. On the day, a uniformed, DBS-checked team arrives on time, protects your floors and doorways, and works efficiently until everything is exactly where you want it.</p>
+      <p>We're a home moving company that handles everything from small house removals and flat removals to apartment removals and full family relocations — with affordable house removals and clear, fixed pricing whatever the size. As a domestic removals specialist and furniture removal company, we also move individual items and full furniture loads across the West Midlands.</p>
 
       <h2>The Process</h2>
       <div class="steps">
@@ -72,6 +73,7 @@
 
       <div class="sidebar-card">
         <h3>Pricing Guide</h3>
+        <p style="font-size:0.9rem;">House removal costs depend on your home size, distance and date. We're a removals company with affordable, competitive prices — no cheap-house-removals surprises, no hidden extras.</p>
         <div class="prose" style="font-size:0.9rem;">
           <table>
             <tr><th>Home size</th><th>Typical price</th></tr>

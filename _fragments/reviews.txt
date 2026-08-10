@@ -1,6 +1,6 @@
 @path reviews.html
 @title Reviews | Albert Miles Removals — Rated 4.9★ on Google
-@desc Real reviews for Albert Miles Removals from Google, Trustpilot and Checkatrade. Rated 4.9/5 by West Midlands families and businesses. Read what our customers say.
+@desc Real reviews for Albert Miles Removals from Google, Trustpilot and Checkatrade. Rated 4.9/5 by West Midlands families. Read what customers say.
 @canonical https://www.albertmilesremovals.co.uk/reviews.html
 @active index.html
 @schema
@@ -19,7 +19,7 @@
   </div>
   <div class="container">
     <h1>What Our Customers Say</h1>
-    <p>Rated 4.9 out of 5 on Google — here's what families and businesses across the West Midlands think of Albert Miles Removals.</p>
+    <p>Rated 4.9 out of 5 on Google — here's what families and businesses across the West Midlands think of Albert Miles, their local removal company for house removals and man and van moves.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="index.html">Home</a></li>

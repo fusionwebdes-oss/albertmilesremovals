@@ -1,5 +1,5 @@
 @path locations/removals-redditch.html
-@title Removals in Redditch | Local Movers | Albert Miles
+@title House Removals Redditch | Albert Miles
 @desc House & office removals in Redditch covering B97–B98. Local experts in Church Hill, Matchborough & more. Fixed prices, £10m cover. Free quotes today.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-redditch.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles-5.webp" alt="Albert Miles removals crew in Redditch" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Redditch</h1>
+    <h1>House Removals in Redditch</h1>
     <p>New-town planning, Worcestershire charm — Redditch moves handled by a local crew with fair fixed prices.</p>
+    <p>Looking for <strong>house removals in Redditch</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Redditch — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

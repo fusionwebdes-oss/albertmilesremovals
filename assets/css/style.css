@@ -617,9 +617,11 @@ h4 { font-size: 1.1rem; }
 @media (max-width: 1024px) {
   .site-header .logo img { width: 120px; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
+  .grid-3 { grid-template-columns: repeat(2, 1fr); }
   .grid-4 { grid-template-columns: repeat(2, 1fr); }
   .grid-5, .grid-6 { grid-template-columns: repeat(3, 1fr); }
   .split { grid-template-columns: 1fr; gap: 2rem; }
+  .header-phone { display: none; }
 }
 
 @media (max-width: 860px) {
@@ -641,7 +643,6 @@ h4 { font-size: 1.1rem; }
     min-width: 0; display: none; box-shadow: none; border: none; padding: 0 0 0 1rem;
   }
   .has-children.open .dropdown, .has-children.open .dropdown-wide { display: grid; grid-template-columns: 1fr; }
-  .header-phone { display: none; }
   .form-grid { grid-template-columns: 1fr; }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .steps-3 { grid-template-columns: 1fr; gap: 1.5rem; }
@@ -757,8 +758,9 @@ h4 { font-size: 1.1rem; }
 .popup-overlay {
   position: fixed; inset: 0; z-index: 2000;
   background: rgba(29,29,29,0.62);
-  display: flex; align-items: center; justify-content: center;
+  display: flex; align-items: flex-start; justify-content: center;
   padding: 1rem;
+  overflow-y: auto;
   opacity: 0; transition: opacity 0.3s ease;
 }
 .popup-overlay[hidden] { display: none; }
@@ -766,8 +768,11 @@ h4 { font-size: 1.1rem; }
 .popup-modal {
   background: var(--white); border-radius: var(--radius);
   max-width: 780px; width: 100%;
+  max-height: calc(100dvh - 2rem);
+  overflow-y: auto;
+  margin: auto;
   display: grid; grid-template-columns: 0.95fr 1.05fr;
-  overflow: hidden; position: relative;
+  position: relative;
   box-shadow: 0 24px 60px rgba(0,0,0,0.35);
   transform: translateY(24px); transition: transform 0.3s ease;
 }
@@ -789,7 +794,7 @@ h4 { font-size: 1.1rem; }
   transition: background 0.2s ease, transform 0.2s ease;
 }
 .popup-close:hover { background: var(--red); transform: scale(1.08); }
-@media (max-width: 640px) {
+@media (max-width: 768px) {
   .popup-modal { grid-template-columns: 1fr; }
   .popup-img { max-height: 200px; }
   .popup-body { padding: 1.6rem; }

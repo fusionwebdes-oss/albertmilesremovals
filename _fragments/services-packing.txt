@@ -1,6 +1,6 @@
 @path services/packing-services.html
-@title Packing Services & Materials | Professional Packing | Albert Miles
-@desc Professional packing services across the West Midlands. Full or partial home packing with premium boxes and materials. Fragile items, kitchens, whole houses. Free quotes.
+@title Packing Services West Midlands | Albert Miles
+@desc Professional house packing service across the West Midlands. Full or partial home packing with moving boxes and premium materials. Fragile items & whole houses.
 @canonical https://www.albertmilesremovals.co.uk/services/packing-services.html
 @active index.html
 @schema

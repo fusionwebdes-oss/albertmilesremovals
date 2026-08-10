@@ -1,6 +1,6 @@
 @path locations/removals-wolverhampton.html
-@title Removals in Wolverhampton | Local Movers | Albert Miles
-@desc House & office removals in Wolverhampton covering all WV postcodes. Local experts in Penn, Tettenhall, Compton & more. Fixed prices, £10m cover. Free quotes today.
+@title House Removals Wolverhampton | Albert Miles
+@desc House & office removals in Wolverhampton covering all WV postcodes. Local experts in Penn, Tettenhall, Compton & more. Fixed prices, £10m cover.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-wolverhampton.html
 @active index.html
 @schema
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles.webp" alt="Albert Miles removals crew in Wolverhampton" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Wolverhampton</h1>
+    <h1>House Removals in Wolverhampton</h1>
     <p>From Victorian terraces in Whitmore Reans to modern family homes in Tettenhall and Compton, we move Wolverhampton homes — and businesses — with care.</p>
+    <p>Looking for <strong>house removals in Wolverhampton</strong>, <strong>man and van removals</strong> or a <strong>removals quote</strong>? We're the local removal company for Wolverhampton — affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>

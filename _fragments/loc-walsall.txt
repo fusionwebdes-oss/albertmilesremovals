@@ -1,5 +1,5 @@
 @path locations/removals-walsall.html
-@title Removals in Walsall | Local Movers | Albert Miles
+@title House Removals Walsall | Albert Miles
 @desc House & office removals in Walsall covering all WS postcodes. Local experts in Aldridge, Bloxwich, Streetly & more. Fixed prices, £10m cover. Free quotes.
 @canonical https://www.albertmilesremovals.co.uk/locations/removals-walsall.html
 @active index.html
@@ -18,8 +18,9 @@
     <img src="../Images/Gallery-image-for-Albert-Miles-16.webp" alt="Albert Miles removals team moving a Walsall home" loading="eager">
   </div>
   <div class="container">
-    <h1>Removals in Walsall</h1>
+    <h1>House Removals in Walsall</h1>
     <p>From the town centre to Aldridge, Bloxwich and the edges of Streetly, we move Walsall homes and businesses with a local crew that knows the roads.</p>
+    <p>We're the local removal company Walsall residents recommend. Looking for <strong>house removals Walsall</strong>, <strong>house movers Walsall</strong>, <strong>man and van Walsall</strong> or a <strong>removals quote</strong>? Affordable house removals, fixed prices and a crew that knows every street.</p>
     <nav class="breadcrumbs" aria-label="Breadcrumb">
       <ol>
         <li><a href="../index.html">Home</a></li>
