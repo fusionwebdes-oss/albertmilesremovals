@@ -49,6 +49,8 @@ BASE_HEAD = """<!DOCTYPE html>
 <meta name="twitter:title" content="{{TITLE}}">
 <meta name="twitter:description" content="{{DESC}}">
 <meta name="twitter:image" content="{{OG_IMAGE}}">
+<link rel="icon" type="image/png" href="{{ROOT}}Images/tab Icon.png">
+<link rel="apple-touch-icon" href="{{ROOT}}Images/tab Icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
